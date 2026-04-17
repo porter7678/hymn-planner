@@ -51,9 +51,9 @@ Each milestone should end with a git commit and a quick manual sanity check befo
 
 ## Milestone 7: Confirm + git
 
-- [ ] On confirm: write `history.json`, then `git add` + `git commit -m "Plan for YYYY-MM-DD"`.
-- [ ] If git fails, save still succeeds and the UI shows a non-blocking warning.
-- [ ] Overwrite behavior for re-planning a Sunday: remove existing entries for that date, then add the new ones.
+- [x] On confirm: write `history.json`, then `git add` + `git commit -m "Plan for YYYY-MM-DD"`.
+- [x] If git fails, save still succeeds and the UI shows a non-blocking warning.
+- [x] Overwrite behavior for re-planning a Sunday: remove existing entries for that date, then add the new ones.
 
 ## Milestone 8: Polish
 
@@ -63,6 +63,9 @@ Each milestone should end with a git commit and a quick manual sanity check befo
 - [ ] `python app.py` opens the browser automatically.
 - [ ] Reasonable styling — clean, readable, doesn't need to win awards. Single CSS file, no frameworks.
 - [ ] Update `README.md` with a screenshot or two.
+
+## Extra Items
+- [ ] Add a shuffle button to the pools to draw again.
 
 ---
 
