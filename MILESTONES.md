@@ -6,15 +6,6 @@ Each milestone should end with a git commit and a quick manual sanity check befo
 
 ---
 
-## Milestone 1: Project scaffolding
-
-- [ ] Initialize git repo
-- [ ] Create directory structure per SPEC section 9
-- [ ] Drop `hymns.csv` and `history.csv` into `data/`
-- [ ] Record the project’s Python dependencies and local launch instructions
-- [ ] Write a minimal `README.md` with launch instructions
-- [ ] Confirm `pytest` runs (even with zero tests)
-
 ## Milestone 2: Data layer
 
 - [ ] `data.py`: load `hymns.csv` into a list of typed records (dataclass or TypedDict). Handle blank `popularity_adjustment` and blank `flagged`.
@@ -77,4 +68,15 @@ Each milestone should end with a git commit and a quick manual sanity check befo
 
 ## Done / shipped
 
-(Move milestones here once complete, with a short note on any deviations from SPEC.)
+### Milestone 1: Project scaffolding
+
+- [x] Initialize git repo
+- [x] Create directory structure per SPEC section 9
+- [x] Drop `hymns.csv` and `history.csv` into `data/`
+- [x] Record the project's Python dependencies and local launch instructions
+- [x] Write a minimal `README.md` with launch instructions
+- [x] Confirm `pytest` runs (even with zero tests)
+
+**Deviations from SPEC:**
+- Dependencies live in `pyproject.toml` + `uv.lock` (managed by `uv`) instead of the `requirements.txt` shown in SPEC §9.
+- SPEC §8's launch command `uv app:app` is not a valid invocation. README documents `uv run flask --app app run` instead. Spec should be corrected before Milestone 8 (browser auto-launch).
