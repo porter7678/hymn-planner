@@ -31,7 +31,7 @@
   <div class="banner banner-fast">⚠ First Sunday of the month — Fast Sunday</div>
 {% endif %}
 {% if holiday %}
-  <div class="banner banner-holiday">🎉 Holiday week: {{ holiday }}</div>
+  <div class="banner banner-holiday">🎉 Holiday week: {{ holiday }} — <a href="{{ url_for('holiday_hymns') }}">view holiday hymns</a></div>
 {% endif %}
 
 <div class="picks-area">
@@ -74,7 +74,7 @@
   <input type="hidden" name="closing"      id="input-closing"      value="">
   <div class="actions">
     <button type="submit" class="confirm-btn">Confirm &amp; commit</button>
-    <a href="{{ url_for('copy_sheet', date_str=ref.isoformat()) }}" target="_blank">Copy for sheet</a>
+    <button type="button" class="copy-btn" id="copy-btn" onclick="copyForSheet()">Copy for sheet</button>
   </div>
 </form>
 
@@ -171,6 +171,22 @@
       state.picks.intermediate = null;
     }
     render();
+  }
+
+  function copyForSheet() {
+    const order = state.skipIntermediate
+      ? ['opening', 'sacrament', 'closing']
+      : ['opening', 'sacrament', 'intermediate', 'closing'];
+    const lines = order
+      .map(s => state.picks[s])
+      .filter(Boolean)
+      .map(p => p.id + ' - ' + p.name);
+    const text = lines.join('\n');
+    navigator.clipboard.writeText(text).then(() => {
+      const btn = document.getElementById('copy-btn');
+      btn.textContent = 'Copied!';
+      setTimeout(() => { btn.textContent = 'Copy for sheet'; }, 1500);
+    });
   }
 
   document.addEventListener('DOMContentLoaded', () => {

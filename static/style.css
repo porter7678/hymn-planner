@@ -159,6 +159,35 @@ button {
 }
 .confirm-btn:hover { background: #1e40af; }
 
+/* Holiday hymns table */
+.holiday-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+}
+.holiday-table th {
+  text-align: left;
+  padding: 6px 10px;
+  border-bottom: 2px solid #e5e5e5;
+  color: #555;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+.holiday-table td {
+  padding: 5px 10px;
+  border-bottom: 1px solid #f0f0f0;
+}
+.holiday-table tr:hover td { background: #f5f5f5; }
+
+.copy-btn {
+  background: #e5e7eb;
+  color: #374151;
+  font-size: 0.9rem;
+  padding: 8px 16px;
+}
+.copy-btn:hover { background: #d1d5db; }
+
 /* Actions row */
 .actions {
   margin-top: 1.25rem;

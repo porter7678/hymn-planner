@@ -3628,23 +3628,5 @@
     "slot": "closing",
     "hymn_id": 106,
     "name": "God Speed the Right"
-  },
-  {
-    "date": "2026-05-10",
-    "slot": "opening",
-    "hymn_id": 223,
-    "name": "Have I Done Any Good?"
-  },
-  {
-    "date": "2026-05-10",
-    "slot": "sacrament",
-    "hymn_id": 188,
-    "name": "Thy Will, O Lord, Be Done"
-  },
-  {
-    "date": "2026-05-10",
-    "slot": "closing",
-    "hymn_id": 58,
-    "name": "Come, Ye Children of the Lord"
   }
 ]

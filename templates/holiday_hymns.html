@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Holiday Hymns</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<nav>
+  <a href="javascript:history.back()">← back</a>
+  <strong>Holiday Hymns</strong>
+</nav>
+
+<p style="color:#555; font-size:0.9rem; margin-bottom:1rem;">
+  These hymns are reserved for holiday weeks and do not appear in normal suggestions.
+</p>
+
+<table class="holiday-table">
+  <thead>
+    <tr><th>ID</th><th>Name</th><th>Length</th><th>Popularity</th></tr>
+  </thead>
+  <tbody>
+    {% for h in hymns %}
+    <tr>
+      <td>{{ h.id }}</td>
+      <td>{{ h.name }}</td>
+      <td>{{ h.length }}</td>
+      <td>{{ h.popularity }}{% if h.popularity_adjustment %} ({{ '%+d' % h.popularity_adjustment }}){% endif %}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+
+</body>
+</html>

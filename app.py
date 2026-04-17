@@ -178,6 +178,13 @@ def confirm(date_str: str):
     return redirect(url_for("plan_view", date_str=date_str), 303)
 
 
+@app.get("/holiday-hymns")
+def holiday_hymns():
+    hymns = datamod.load_hymns()
+    hol_hymns = [h for h in hymns if h.is_holiday]
+    return render_template("holiday_hymns.html", hymns=hol_hymns)
+
+
 @app.get("/copy/<date_str>")
 def copy_sheet(date_str: str):
     try:
@@ -200,3 +207,11 @@ def copy_sheet(date_str: str):
             lines.append(f"{hid} - {name}")
 
     return "\n".join(lines), 200, {"Content-Type": "text/plain; charset=utf-8"}
+
+
+if __name__ == "__main__":
+    import threading
+    import webbrowser
+
+    threading.Timer(1.0, lambda: webbrowser.open("http://localhost:5000")).start()
+    app.run(host="127.0.0.1", port=5000, debug=False)

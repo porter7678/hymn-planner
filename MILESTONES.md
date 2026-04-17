@@ -57,12 +57,12 @@ Each milestone should end with a git commit and a quick manual sanity check befo
 
 ## Milestone 8: Polish
 
-- [ ] Fast Sunday banner.
-- [ ] Holiday banner with link to the holiday hymns list (read-only view).
-- [ ] "Copy for sheet" button produces the formatted text block (section 6.3).
-- [ ] `python app.py` opens the browser automatically.
-- [ ] Reasonable styling — clean, readable, doesn't need to win awards. Single CSS file, no frameworks.
-- [ ] Update `README.md` with a screenshot or two.
+- [x] Fast Sunday banner.
+- [x] Holiday banner with link to the holiday hymns list (read-only view).
+- [x] "Copy for sheet" button produces the formatted text block (section 6.3).
+- [x] `python app.py` opens the browser automatically.
+- [x] Reasonable styling — clean, readable, doesn't need to win awards. Single CSS file, no frameworks.
+- [x] Update `README.md` with a screenshot or two.
 
 ## Extra Items
 - [ ] Add a shuffle button to the pools to draw again.
