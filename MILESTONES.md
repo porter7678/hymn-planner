@@ -8,12 +8,12 @@ Each milestone should end with a git commit and a quick manual sanity check befo
 
 ## Milestone 2: Data layer
 
-- [ ] `data.py`: load `hymns.csv` into a list of typed records (dataclass or TypedDict). Handle blank `popularity_adjustment` and blank `flagged`.
-- [ ] `data.py`: load `history.json` into a list of entries. If the file doesn't exist, return an empty list.
-- [ ] `data.py`: function `last_sung(hymn_id, history, reference_sunday)` → date or None, ignoring entries on `reference_sunday` itself.
-- [ ] `scripts/import_history.py`: one-time script that reads `history.csv` (MM/DD/YYYY, possibly blank ids) and writes `history.json` (ISO dates, rows with blank ids dropped).
-- [ ] Run the import once, verify `history.json` has the expected number of rows.
-- [ ] Unit tests in `tests/test_data.py`.
+- [x] `data.py`: load `hymns.csv` into a list of typed records (dataclass or TypedDict). Handle blank `popularity_adjustment` and blank `flagged`.
+- [x] `data.py`: load `history.json` into a list of entries. If the file doesn't exist, return an empty list.
+- [x] `data.py`: function `last_sung(hymn_id, history, reference_sunday)` → date or None, ignoring entries on `reference_sunday` itself.
+- [x] `scripts/import_history.py`: one-time script that reads `history.csv` (MM/DD/YYYY, possibly blank ids) and writes `history.json` (ISO dates, rows with blank ids dropped).
+- [x] Run the import once, verify `history.json` has the expected number of rows.
+- [x] Unit tests in `tests/test_data.py`.
 
 ## Milestone 3: Scoring
 

@@ -1,0 +1,3632 @@
+[
+  {
+    "date": "2023-01-01",
+    "slot": "opening",
+    "hymn_id": 85,
+    "name": "How Firm a Foundation"
+  },
+  {
+    "date": "2023-01-01",
+    "slot": "sacrament",
+    "hymn_id": 177,
+    "name": "Tis Sweet to Sing the Matchless Love (HANCOCK)"
+  },
+  {
+    "date": "2023-01-01",
+    "slot": "closing",
+    "hymn_id": 117,
+    "name": "Come unto Jesus"
+  },
+  {
+    "date": "2023-01-08",
+    "slot": "opening",
+    "hymn_id": 83,
+    "name": "Guide Us, O Thou Great Jehovah"
+  },
+  {
+    "date": "2023-01-08",
+    "slot": "sacrament",
+    "hymn_id": 182,
+    "name": "We'll Sing All Hail to Jesus' Name"
+  },
+  {
+    "date": "2023-01-08",
+    "slot": "intermediate",
+    "hymn_id": 98,
+    "name": "I Need Thee Every Hour"
+  },
+  {
+    "date": "2023-01-08",
+    "slot": "closing",
+    "hymn_id": 3,
+    "name": "Now Let Us Rejoice"
+  },
+  {
+    "date": "2023-01-15",
+    "slot": "opening",
+    "hymn_id": 5,
+    "name": "High on the Mountain Top"
+  },
+  {
+    "date": "2023-01-15",
+    "slot": "sacrament",
+    "hymn_id": 175,
+    "name": "O God, the Eternal Father"
+  },
+  {
+    "date": "2023-01-15",
+    "slot": "intermediate",
+    "hymn_id": 131,
+    "name": "More Holiness Give Me"
+  },
+  {
+    "date": "2023-01-15",
+    "slot": "closing",
+    "hymn_id": 106,
+    "name": "God Speed the Right"
+  },
+  {
+    "date": "2023-01-22",
+    "slot": "opening",
+    "hymn_id": 6,
+    "name": "Redeemer of Israel"
+  },
+  {
+    "date": "2023-01-22",
+    "slot": "sacrament",
+    "hymn_id": 171,
+    "name": "With Humble Heart"
+  },
+  {
+    "date": "2023-01-22",
+    "slot": "intermediate",
+    "hymn_id": 304,
+    "name": "Teach Me to Walk in the Light"
+  },
+  {
+    "date": "2023-01-22",
+    "slot": "closing",
+    "hymn_id": 219,
+    "name": "Because I Have Been Given Much"
+  },
+  {
+    "date": "2023-01-29",
+    "slot": "opening",
+    "hymn_id": 30,
+    "name": "Come, Come, Ye Saints"
+  },
+  {
+    "date": "2023-01-29",
+    "slot": "sacrament",
+    "hymn_id": 195,
+    "name": "How Great the Wisdom and the Love"
+  },
+  {
+    "date": "2023-01-29",
+    "slot": "intermediate",
+    "hymn_id": 130,
+    "name": "Be Thou Humble"
+  },
+  {
+    "date": "2023-01-29",
+    "slot": "closing",
+    "hymn_id": 152,
+    "name": "God Be with You Till We Meet Again"
+  },
+  {
+    "date": "2023-02-05",
+    "slot": "opening",
+    "hymn_id": 243,
+    "name": "Let Us All Press On"
+  },
+  {
+    "date": "2023-02-05",
+    "slot": "sacrament",
+    "hymn_id": 196,
+    "name": "Jesus, Once of Humble Birth"
+  },
+  {
+    "date": "2023-02-05",
+    "slot": "closing",
+    "hymn_id": 163,
+    "name": "Lord, Dismiss Us with Thy Blessing"
+  },
+  {
+    "date": "2023-02-12",
+    "slot": "opening",
+    "hymn_id": 140,
+    "name": "Did you Think to Pray?"
+  },
+  {
+    "date": "2023-02-12",
+    "slot": "sacrament",
+    "hymn_id": 194,
+    "name": "There Is a Green Hill Far Away"
+  },
+  {
+    "date": "2023-02-12",
+    "slot": "closing",
+    "hymn_id": 81,
+    "name": "Press Forward, Saints"
+  },
+  {
+    "date": "2023-02-19",
+    "slot": "opening",
+    "hymn_id": 116,
+    "name": "Come, Follow Me"
+  },
+  {
+    "date": "2023-02-19",
+    "slot": "sacrament",
+    "hymn_id": 197,
+    "name": "O Savior, Thou Who Wearest a Crown"
+  },
+  {
+    "date": "2023-02-19",
+    "slot": "intermediate",
+    "hymn_id": 308,
+    "name": "Love One Another"
+  },
+  {
+    "date": "2023-02-19",
+    "slot": "closing",
+    "hymn_id": 274,
+    "name": "The Iron Rod"
+  },
+  {
+    "date": "2023-02-26",
+    "slot": "opening",
+    "hymn_id": 136,
+    "name": "I Know That My Redeemer Lives"
+  },
+  {
+    "date": "2023-02-26",
+    "slot": "sacrament",
+    "hymn_id": 180,
+    "name": "Father in Heaven, We Do Believe"
+  },
+  {
+    "date": "2023-02-26",
+    "slot": "intermediate",
+    "hymn_id": 125,
+    "name": "How Gentle God's Commands"
+  },
+  {
+    "date": "2023-02-26",
+    "slot": "closing",
+    "hymn_id": 264,
+    "name": "Hark, All Ye Nations!"
+  },
+  {
+    "date": "2023-03-05",
+    "slot": "opening",
+    "hymn_id": 237,
+    "name": "Do What Is Right"
+  },
+  {
+    "date": "2023-03-05",
+    "slot": "sacrament",
+    "hymn_id": 170,
+    "name": "God, Our Father, Hear Us Pray"
+  },
+  {
+    "date": "2023-03-05",
+    "slot": "closing",
+    "hymn_id": 153,
+    "name": "Lord, We Ask Thee Ere We Part"
+  },
+  {
+    "date": "2023-03-12",
+    "slot": "opening",
+    "hymn_id": 52,
+    "name": "The Day Dawn Is Breaking"
+  },
+  {
+    "date": "2023-03-12",
+    "slot": "sacrament",
+    "hymn_id": 173,
+    "name": "While of These Emblems We Partake (SAUL)"
+  },
+  {
+    "date": "2023-03-12",
+    "slot": "intermediate",
+    "hymn_id": 113,
+    "name": "Our Savior's Love"
+  },
+  {
+    "date": "2023-03-12",
+    "slot": "closing",
+    "hymn_id": 111,
+    "name": "Rock of Ages"
+  },
+  {
+    "date": "2023-03-19",
+    "slot": "opening",
+    "hymn_id": 280,
+    "name": "Welcome, Welcome, Sabbath Morning"
+  },
+  {
+    "date": "2023-03-19",
+    "slot": "sacrament",
+    "hymn_id": 172,
+    "name": "In Humility, Our Savior"
+  },
+  {
+    "date": "2023-03-19",
+    "slot": "intermediate",
+    "hymn_id": 241,
+    "name": "Count Your Blessings"
+  },
+  {
+    "date": "2023-03-19",
+    "slot": "closing",
+    "hymn_id": 129,
+    "name": "Where Can I Turn for Peace?"
+  },
+  {
+    "date": "2023-03-26",
+    "slot": "opening",
+    "hymn_id": 301,
+    "name": "I Am a Child of God"
+  },
+  {
+    "date": "2023-03-26",
+    "slot": "sacrament",
+    "hymn_id": 176,
+    "name": "Tis Sweet to Sing the Matchless Love (MEREDITH)"
+  },
+  {
+    "date": "2023-03-26",
+    "slot": "closing",
+    "hymn_id": 165,
+    "name": "Abide with Me, 'Tis Eventide"
+  },
+  {
+    "date": "2023-04-09",
+    "slot": "opening",
+    "hymn_id": 199,
+    "name": "He Is Risen"
+  },
+  {
+    "date": "2023-04-09",
+    "slot": "sacrament",
+    "hymn_id": 193,
+    "name": "I Stand All Amazed"
+  },
+  {
+    "date": "2023-04-09",
+    "slot": "closing",
+    "hymn_id": 136,
+    "name": "I Know That My Redeemer Lives"
+  },
+  {
+    "date": "2023-04-16",
+    "slot": "opening",
+    "hymn_id": 26,
+    "name": "Joseph Smith's First Prayer"
+  },
+  {
+    "date": "2023-04-16",
+    "slot": "sacrament",
+    "hymn_id": 184,
+    "name": "Upon the Cross of Calvary"
+  },
+  {
+    "date": "2023-04-16",
+    "slot": "intermediate",
+    "hymn_id": 227,
+    "name": "There Is Sunshine in My Soul Today"
+  },
+  {
+    "date": "2023-04-16",
+    "slot": "closing",
+    "hymn_id": 66,
+    "name": "Rejoice, the Lord Is King!"
+  },
+  {
+    "date": "2023-04-23",
+    "slot": "opening",
+    "hymn_id": 62,
+    "name": "All Creatures of Our God and King"
+  },
+  {
+    "date": "2023-04-23",
+    "slot": "sacrament",
+    "hymn_id": 169,
+    "name": "As Now We Take the Sacrament"
+  },
+  {
+    "date": "2023-04-23",
+    "slot": "intermediate",
+    "hymn_id": 270,
+    "name": "I'll Go Where You Want Me to Go"
+  },
+  {
+    "date": "2023-04-23",
+    "slot": "closing",
+    "hymn_id": 143,
+    "name": "Let the Holy Spirit Guide"
+  },
+  {
+    "date": "2023-04-30",
+    "slot": "opening",
+    "hymn_id": 58,
+    "name": "Come, Ye Children of the Lord"
+  },
+  {
+    "date": "2023-04-30",
+    "slot": "sacrament",
+    "hymn_id": 195,
+    "name": "How Great the Wisdom and the Love"
+  },
+  {
+    "date": "2023-04-30",
+    "slot": "intermediate",
+    "hymn_id": 298,
+    "name": "Home Can Be a Heaven on Earth"
+  },
+  {
+    "date": "2023-04-30",
+    "slot": "closing",
+    "hymn_id": 249,
+    "name": "Called to Serve"
+  },
+  {
+    "date": "2023-05-07",
+    "slot": "opening",
+    "hymn_id": 86,
+    "name": "How Great Thou Art"
+  },
+  {
+    "date": "2023-05-07",
+    "slot": "sacrament",
+    "hymn_id": 192,
+    "name": "He Died! The Great Redeemer Died"
+  },
+  {
+    "date": "2023-05-07",
+    "slot": "closing",
+    "hymn_id": 166,
+    "name": "Abide with Me!"
+  },
+  {
+    "date": "2023-05-14",
+    "slot": "opening",
+    "hymn_id": 304,
+    "name": "Teach Me to Walk in the Light"
+  },
+  {
+    "date": "2023-05-14",
+    "slot": "sacrament",
+    "hymn_id": 141,
+    "name": "Jesus, the Very Thought of Thee"
+  },
+  {
+    "date": "2023-05-14",
+    "slot": "intermediate",
+    "hymn_id": 142,
+    "name": "Sweet Hour of Prayer"
+  },
+  {
+    "date": "2023-05-14",
+    "slot": "closing",
+    "hymn_id": 92,
+    "name": "For the Beauty of the Earth"
+  },
+  {
+    "date": "2023-05-21",
+    "slot": "opening",
+    "hymn_id": 30,
+    "name": "Come, Come, Ye Saints"
+  },
+  {
+    "date": "2023-05-21",
+    "slot": "sacrament",
+    "hymn_id": 181,
+    "name": "Jesus of Nazareth, Savior and King"
+  },
+  {
+    "date": "2023-05-21",
+    "slot": "intermediate",
+    "hymn_id": 220,
+    "name": "Lord, I Would Follow Thee"
+  },
+  {
+    "date": "2023-05-21",
+    "slot": "closing",
+    "hymn_id": 156,
+    "name": "Sing We Now at Parting"
+  },
+  {
+    "date": "2023-05-28",
+    "slot": "opening",
+    "hymn_id": 85,
+    "name": "How Firm a Foundation"
+  },
+  {
+    "date": "2023-05-28",
+    "slot": "sacrament",
+    "hymn_id": 174,
+    "name": "While of These Emblems We Partake (AEOLIAN)"
+  },
+  {
+    "date": "2023-05-28",
+    "slot": "intermediate",
+    "hymn_id": 98,
+    "name": "I Need Thee Every Hour"
+  },
+  {
+    "date": "2023-05-28",
+    "slot": "closing",
+    "hymn_id": 117,
+    "name": "Come unto Jesus"
+  },
+  {
+    "date": "2023-06-04",
+    "slot": "opening",
+    "hymn_id": 67,
+    "name": "Glory to God on High"
+  },
+  {
+    "date": "2023-06-04",
+    "slot": "intermediate",
+    "hymn_id": 81,
+    "name": "Press Forward, Saints"
+  },
+  {
+    "date": "2023-06-04",
+    "slot": "closing",
+    "hymn_id": 166,
+    "name": "Abide with Me!"
+  },
+  {
+    "date": "2023-06-04",
+    "slot": "opening",
+    "hymn_id": 6,
+    "name": "Redeemer of Israel"
+  },
+  {
+    "date": "2023-06-04",
+    "slot": "intermediate",
+    "hymn_id": 301,
+    "name": "I Am a Child of God"
+  },
+  {
+    "date": "2023-06-04",
+    "slot": "closing",
+    "hymn_id": 220,
+    "name": "Lord, I Would Follow Thee"
+  },
+  {
+    "date": "2023-06-11",
+    "slot": "opening",
+    "hymn_id": 7,
+    "name": "Israel, Israel, God Is Calling"
+  },
+  {
+    "date": "2023-06-11",
+    "slot": "sacrament",
+    "hymn_id": 187,
+    "name": "God Loved Us, So He Sent His Son"
+  },
+  {
+    "date": "2023-06-11",
+    "slot": "closing",
+    "hymn_id": 138,
+    "name": "Bless Our Fast, We Pray"
+  },
+  {
+    "date": "2023-06-18",
+    "slot": "opening",
+    "hymn_id": 292,
+    "name": "O My Father"
+  },
+  {
+    "date": "2023-06-18",
+    "slot": "sacrament",
+    "hymn_id": 170,
+    "name": "God, Our Father, Hear Us Pray"
+  },
+  {
+    "date": "2023-06-18",
+    "slot": "intermediate",
+    "hymn_id": 129,
+    "name": "Where Can I Turn for Peace?"
+  },
+  {
+    "date": "2023-06-18",
+    "slot": "closing",
+    "hymn_id": 308,
+    "name": "Love One Another"
+  },
+  {
+    "date": "2023-06-25",
+    "slot": "opening",
+    "hymn_id": 96,
+    "name": "Dearest Children, God Is Near You"
+  },
+  {
+    "date": "2023-06-25",
+    "slot": "sacrament",
+    "hymn_id": 190,
+    "name": "In Memory of the Crucified"
+  },
+  {
+    "date": "2023-06-25",
+    "slot": "intermediate",
+    "hymn_id": 89,
+    "name": "The Lord Is My Light"
+  },
+  {
+    "date": "2023-07-02",
+    "slot": "closing",
+    "hymn_id": 277,
+    "name": "As I Search the Holy Scriptures"
+  },
+  {
+    "date": "2023-07-02",
+    "slot": "opening",
+    "hymn_id": 100,
+    "name": "Nearer, My God, To Thee"
+  },
+  {
+    "date": "2023-07-02",
+    "slot": "sacrament",
+    "hymn_id": 146,
+    "name": "Gently Raise the Sacred Strain"
+  },
+  {
+    "date": "2023-07-02",
+    "slot": "closing",
+    "hymn_id": 263,
+    "name": "Go Forth with Faith"
+  },
+  {
+    "date": "2023-07-09",
+    "slot": "opening",
+    "hymn_id": 134,
+    "name": "I Believe in Christ"
+  },
+  {
+    "date": "2023-07-09",
+    "slot": "sacrament",
+    "hymn_id": 178,
+    "name": "O Lord of Hosts"
+  },
+  {
+    "date": "2023-07-09",
+    "slot": "intermediate",
+    "hymn_id": 147,
+    "name": "Sweet Is the Work"
+  },
+  {
+    "date": "2023-07-09",
+    "slot": "closing",
+    "hymn_id": 137,
+    "name": "Testimony"
+  },
+  {
+    "date": "2023-07-16",
+    "slot": "opening",
+    "hymn_id": 294,
+    "name": "Love at Home"
+  },
+  {
+    "date": "2023-07-16",
+    "slot": "sacrament",
+    "hymn_id": 183,
+    "name": "In Rememberance of Thy Suffering"
+  },
+  {
+    "date": "2023-07-16",
+    "slot": "intermediate",
+    "hymn_id": 223,
+    "name": "Have I Done Any Good?"
+  },
+  {
+    "date": "2023-07-16",
+    "slot": "closing",
+    "hymn_id": 303,
+    "name": "Keep the Commandments"
+  },
+  {
+    "date": "2023-07-23",
+    "slot": "opening",
+    "hymn_id": 30,
+    "name": "Come, Come, Ye Saints"
+  },
+  {
+    "date": "2023-07-23",
+    "slot": "sacrament",
+    "hymn_id": 179,
+    "name": "Again, Our Dear Redeeming Lord"
+  },
+  {
+    "date": "2023-07-23",
+    "slot": "intermediate",
+    "hymn_id": 252,
+    "name": "Put Your Shoulder to the Wheel"
+  },
+  {
+    "date": "2023-07-23",
+    "slot": "closing",
+    "hymn_id": 302,
+    "name": "I Know My Father Lives"
+  },
+  {
+    "date": "2023-07-30",
+    "slot": "opening",
+    "hymn_id": 239,
+    "name": "Choose the Right"
+  },
+  {
+    "date": "2023-07-30",
+    "slot": "sacrament",
+    "hymn_id": 188,
+    "name": "Thy Will, O Lord, Be Done"
+  },
+  {
+    "date": "2023-07-30",
+    "slot": "intermediate",
+    "hymn_id": 228,
+    "name": "You Can Make the Pathway Bright"
+  },
+  {
+    "date": "2023-07-30",
+    "slot": "closing",
+    "hymn_id": 97,
+    "name": "Lead, Kindly Light"
+  },
+  {
+    "date": "2023-08-05",
+    "slot": "opening",
+    "hymn_id": 264,
+    "name": "Hark, All Ye Nations!"
+  },
+  {
+    "date": "2023-08-05",
+    "slot": "sacrament",
+    "hymn_id": 191,
+    "name": "Behold the Great Redeemer Die"
+  },
+  {
+    "date": "2023-08-05",
+    "slot": "closing",
+    "hymn_id": 124,
+    "name": "Be Still, My Soul"
+  },
+  {
+    "date": "2023-08-13",
+    "slot": "opening",
+    "hymn_id": 5,
+    "name": "High on the Mountain Top"
+  },
+  {
+    "date": "2023-08-13",
+    "slot": "sacrament",
+    "hymn_id": 185,
+    "name": "Reverently and Meekly Now"
+  },
+  {
+    "date": "2023-08-13",
+    "slot": "closing",
+    "hymn_id": 60,
+    "name": "Battle Hymn of the Republic"
+  },
+  {
+    "date": "2023-08-20",
+    "slot": "opening",
+    "hymn_id": 259,
+    "name": "Hope of Israel"
+  },
+  {
+    "date": "2023-08-20",
+    "slot": "sacrament",
+    "hymn_id": 175,
+    "name": "O God, the Eternal Father"
+  },
+  {
+    "date": "2023-08-20",
+    "slot": "intermediate",
+    "hymn_id": 3,
+    "name": "Now Let Us Rejoice"
+  },
+  {
+    "date": "2023-08-20",
+    "slot": "closing",
+    "hymn_id": 243,
+    "name": "Let Us All Press On"
+  },
+  {
+    "date": "2023-08-27",
+    "slot": "opening",
+    "hymn_id": 241,
+    "name": "Count Your Blessings"
+  },
+  {
+    "date": "2023-08-27",
+    "slot": "sacrament",
+    "hymn_id": 177,
+    "name": "Tis Sweet to Sing the Matchless Love (HANCOCK)"
+  },
+  {
+    "date": "2023-08-27",
+    "slot": "intermediate",
+    "hymn_id": 144,
+    "name": "Secret Prayer"
+  },
+  {
+    "date": "2023-08-27",
+    "slot": "closing",
+    "hymn_id": 131,
+    "name": "More Holiness Give Me"
+  },
+  {
+    "date": "2023-09-03",
+    "slot": "opening",
+    "hymn_id": 219,
+    "name": "Because I Have Been Given Much"
+  },
+  {
+    "date": "2023-09-03",
+    "slot": "sacrament",
+    "hymn_id": 194,
+    "name": "There Is a Green Hill Far Away"
+  },
+  {
+    "date": "2023-09-03",
+    "slot": "closing",
+    "hymn_id": 152,
+    "name": "God Be with You Till We Meet Again"
+  },
+  {
+    "date": "2023-09-10",
+    "slot": "opening",
+    "hymn_id": 113,
+    "name": "Our Savior's Love"
+  },
+  {
+    "date": "2023-09-10",
+    "slot": "sacrament",
+    "hymn_id": 182,
+    "name": "We'll Sing All Hail to Jesus' Name"
+  },
+  {
+    "date": "2023-09-10",
+    "slot": "intermediate",
+    "hymn_id": 66,
+    "name": "Rejoice, the Lord Is King!"
+  },
+  {
+    "date": "2023-09-10",
+    "slot": "closing",
+    "hymn_id": 274,
+    "name": "The Iron Rod"
+  },
+  {
+    "date": "2023-09-17",
+    "slot": "opening",
+    "hymn_id": 280,
+    "name": "Welcome, Welcome, Sabbath Morning"
+  },
+  {
+    "date": "2023-09-17",
+    "slot": "sacrament",
+    "hymn_id": 171,
+    "name": "With Humble Heart"
+  },
+  {
+    "date": "2023-09-17",
+    "slot": "intermediate",
+    "hymn_id": 140,
+    "name": "Did you Think to Pray?"
+  },
+  {
+    "date": "2023-09-17",
+    "slot": "closing",
+    "hymn_id": 125,
+    "name": "How Gentle God's Commands"
+  },
+  {
+    "date": "2023-09-24",
+    "slot": "opening",
+    "hymn_id": 116,
+    "name": "Come, Follow Me"
+  },
+  {
+    "date": "2023-09-24",
+    "slot": "sacrament",
+    "hymn_id": 196,
+    "name": "Jesus, Once of Humble Birth"
+  },
+  {
+    "date": "2023-09-24",
+    "slot": "intermediate",
+    "hymn_id": 227,
+    "name": "There Is Sunshine in My Soul Today"
+  },
+  {
+    "date": "2023-09-24",
+    "slot": "closing",
+    "hymn_id": 298,
+    "name": "Home Can Be a Heaven on Earth"
+  },
+  {
+    "date": "2023-10-08",
+    "slot": "opening",
+    "hymn_id": 139,
+    "name": "In Fasting We Approach Thee"
+  },
+  {
+    "date": "2023-10-08",
+    "slot": "sacrament",
+    "hymn_id": 180,
+    "name": "Father in Heaven, We Do Believe"
+  },
+  {
+    "date": "2023-10-08",
+    "slot": "closing",
+    "hymn_id": 255,
+    "name": "Carry On"
+  },
+  {
+    "date": "2023-10-15",
+    "slot": "opening",
+    "hymn_id": 92,
+    "name": "For the Beauty of the Earth"
+  },
+  {
+    "date": "2023-10-15",
+    "slot": "sacrament",
+    "hymn_id": 173,
+    "name": "While of These Emblems We Partake (SAUL)"
+  },
+  {
+    "date": "2023-10-15",
+    "slot": "intermediate",
+    "hymn_id": 6,
+    "name": "Redeemer of Israel"
+  },
+  {
+    "date": "2023-10-15",
+    "slot": "closing",
+    "hymn_id": 78,
+    "name": "God of Our Fathers, Whose Almighty Hand"
+  },
+  {
+    "date": "2023-10-22",
+    "slot": "opening",
+    "hymn_id": 58,
+    "name": "Come, Ye Children of the Lord"
+  },
+  {
+    "date": "2023-10-22",
+    "slot": "sacrament",
+    "hymn_id": 193,
+    "name": "I Stand All Amazed"
+  },
+  {
+    "date": "2023-10-29",
+    "slot": "opening",
+    "hymn_id": 105,
+    "name": "Master, the Tempest Is Raging"
+  },
+  {
+    "date": "2023-10-29",
+    "slot": "sacrament",
+    "hymn_id": 186,
+    "name": "Again We Meet around the Board"
+  },
+  {
+    "date": "2023-10-29",
+    "slot": "intermediate",
+    "hymn_id": 135,
+    "name": "My Redeemer Lives"
+  },
+  {
+    "date": "2023-10-29",
+    "slot": "closing",
+    "hymn_id": 237,
+    "name": "Do What Is Right"
+  },
+  {
+    "date": "2023-11-05",
+    "slot": "opening",
+    "hymn_id": 85,
+    "name": "How Firm a Foundation"
+  },
+  {
+    "date": "2023-11-05",
+    "slot": "sacrament",
+    "hymn_id": 169,
+    "name": "As Now We Take the Sacrament"
+  },
+  {
+    "date": "2023-11-05",
+    "slot": "closing",
+    "hymn_id": 143,
+    "name": "Let the Holy Spirit Guide"
+  },
+  {
+    "date": "2023-11-12",
+    "slot": "opening",
+    "hymn_id": 94,
+    "name": "Come, Ye Thankful People"
+  },
+  {
+    "date": "2023-11-12",
+    "slot": "sacrament",
+    "hymn_id": 172,
+    "name": "In Humility, Our Savior"
+  },
+  {
+    "date": "2023-11-12",
+    "slot": "closing",
+    "hymn_id": 92,
+    "name": "For the Beauty of the Earth"
+  },
+  {
+    "date": "2023-11-26",
+    "slot": "opening",
+    "hymn_id": 62,
+    "name": "All Creatures of Our God and King"
+  },
+  {
+    "date": "2023-11-26",
+    "slot": "sacrament",
+    "hymn_id": 184,
+    "name": "Upon the Cross of Calvary"
+  },
+  {
+    "date": "2023-11-26",
+    "slot": "intermediate",
+    "hymn_id": 304,
+    "name": "Teach Me to Walk in the Light"
+  },
+  {
+    "date": "2023-11-26",
+    "slot": "closing",
+    "hymn_id": 141,
+    "name": "Jesus, the Very Thought of Thee"
+  },
+  {
+    "date": "2023-12-03",
+    "slot": "opening",
+    "hymn_id": 202,
+    "name": "Oh, Come, All Ye Faithful"
+  },
+  {
+    "date": "2023-12-03",
+    "slot": "sacrament",
+    "hymn_id": 176,
+    "name": "Tis Sweet to Sing the Matchless Love (MEREDITH)"
+  },
+  {
+    "date": "2023-12-03",
+    "slot": "closing",
+    "hymn_id": 209,
+    "name": "Hark! The Herald Angels Sing"
+  },
+  {
+    "date": "2023-12-10",
+    "slot": "opening",
+    "hymn_id": 203,
+    "name": "Angels We Have Heard on High"
+  },
+  {
+    "date": "2023-12-10",
+    "slot": "sacrament",
+    "hymn_id": 181,
+    "name": "Jesus of Nazareth, Savior and King"
+  },
+  {
+    "date": "2023-12-10",
+    "slot": "intermediate",
+    "hymn_id": 212,
+    "name": "Far, Far, Away on Judea's Plains"
+  },
+  {
+    "date": "2023-12-10",
+    "slot": "closing",
+    "hymn_id": 206,
+    "name": "Away in a Manger"
+  },
+  {
+    "date": "2023-12-17",
+    "slot": "opening",
+    "hymn_id": 201,
+    "name": "Joy to the World"
+  },
+  {
+    "date": "2023-12-17",
+    "slot": "sacrament",
+    "hymn_id": 196,
+    "name": "Jesus, Once of Humble Birth"
+  },
+  {
+    "date": "2023-12-17",
+    "slot": "intermediate",
+    "hymn_id": 213,
+    "name": "The First Noel"
+  },
+  {
+    "date": "2023-12-17",
+    "slot": "closing",
+    "hymn_id": 204,
+    "name": "Silent Night"
+  },
+  {
+    "date": "2023-12-24",
+    "slot": "opening",
+    "hymn_id": 207,
+    "name": "It Came upon the Midnight Clear"
+  },
+  {
+    "date": "2023-12-24",
+    "slot": "sacrament",
+    "hymn_id": 195,
+    "name": "How Great the Wisdom and the Love"
+  },
+  {
+    "date": "2023-12-24",
+    "slot": "intermediate",
+    "hymn_id": 214,
+    "name": "I Heard the Bells on Christmas Day"
+  },
+  {
+    "date": "2023-12-24",
+    "slot": "closing",
+    "hymn_id": 206,
+    "name": "Away in a Manger"
+  },
+  {
+    "date": "2023-12-31",
+    "slot": "opening",
+    "hymn_id": 217,
+    "name": "Come, Let Us Anew"
+  },
+  {
+    "date": "2023-12-31",
+    "slot": "sacrament",
+    "hymn_id": 170,
+    "name": "God, Our Father, Hear Us Pray"
+  },
+  {
+    "date": "2023-12-31",
+    "slot": "intermediate",
+    "hymn_id": 250,
+    "name": "We Are All Enlisted"
+  },
+  {
+    "date": "2023-12-31",
+    "slot": "closing",
+    "hymn_id": 136,
+    "name": "I Know That My Redeemer Lives"
+  },
+  {
+    "date": "2024-01-07",
+    "slot": "opening",
+    "hymn_id": 5,
+    "name": "High on the Mountain Top"
+  },
+  {
+    "date": "2024-01-07",
+    "slot": "sacrament",
+    "hymn_id": 190,
+    "name": "In Memory of the Crucified"
+  },
+  {
+    "date": "2024-01-07",
+    "slot": "closing",
+    "hymn_id": 220,
+    "name": "Lord, I Would Follow Thee"
+  },
+  {
+    "date": "2024-01-14",
+    "slot": "opening",
+    "hymn_id": 264,
+    "name": "Hark, All Ye Nations!"
+  },
+  {
+    "date": "2024-01-14",
+    "slot": "sacrament",
+    "hymn_id": 192,
+    "name": "He Died! The Great Redeemer Died"
+  },
+  {
+    "date": "2024-01-14",
+    "slot": "intermediate",
+    "hymn_id": 81,
+    "name": "Press Forward, Saints"
+  },
+  {
+    "date": "2024-01-14",
+    "slot": "closing",
+    "hymn_id": 156,
+    "name": "Sing We Now at Parting"
+  },
+  {
+    "date": "2024-01-21",
+    "slot": "opening",
+    "hymn_id": 52,
+    "name": "The Day Dawn Is Breaking"
+  },
+  {
+    "date": "2024-01-21",
+    "slot": "sacrament",
+    "hymn_id": 187,
+    "name": "God Loved Us, So He Sent His Son"
+  },
+  {
+    "date": "2024-01-21",
+    "slot": "intermediate",
+    "hymn_id": 270,
+    "name": "I'll Go Where You Want Me to Go"
+  },
+  {
+    "date": "2024-01-21",
+    "slot": "closing",
+    "hymn_id": 147,
+    "name": "Sweet Is the Work"
+  },
+  {
+    "date": "2024-01-28",
+    "slot": "opening",
+    "hymn_id": 30,
+    "name": "Come, Come, Ye Saints"
+  },
+  {
+    "date": "2024-01-28",
+    "slot": "sacrament",
+    "hymn_id": 174,
+    "name": "While of These Emblems We Partake (AEOLIAN)"
+  },
+  {
+    "date": "2024-01-28",
+    "slot": "intermediate",
+    "hymn_id": 249,
+    "name": "Called to Serve"
+  },
+  {
+    "date": "2024-01-28",
+    "slot": "closing",
+    "hymn_id": 98,
+    "name": "I Need Thee Every Hour"
+  },
+  {
+    "date": "2024-02-04",
+    "slot": "opening",
+    "hymn_id": 142,
+    "name": "Sweet Hour of Prayer"
+  },
+  {
+    "date": "2024-02-04",
+    "slot": "sacrament",
+    "hymn_id": 189,
+    "name": "O Thou, Before the World Began"
+  },
+  {
+    "date": "2024-02-04",
+    "slot": "closing",
+    "hymn_id": 66,
+    "name": "Rejoice, the Lord Is King!"
+  },
+  {
+    "date": "2024-02-11",
+    "slot": "opening",
+    "hymn_id": 239,
+    "name": "Choose the Right"
+  },
+  {
+    "date": "2024-02-11",
+    "slot": "sacrament",
+    "hymn_id": 178,
+    "name": "O Lord of Hosts"
+  },
+  {
+    "date": "2024-02-11",
+    "slot": "intermediate",
+    "hymn_id": 21,
+    "name": "Come, Listen to a Prophet's Voice"
+  },
+  {
+    "date": "2024-02-11",
+    "slot": "closing",
+    "hymn_id": 100,
+    "name": "Nearer, My God, To Thee"
+  },
+  {
+    "date": "2024-02-18",
+    "slot": "opening",
+    "hymn_id": 117,
+    "name": "Come unto Jesus"
+  },
+  {
+    "date": "2024-02-18",
+    "slot": "sacrament",
+    "hymn_id": 183,
+    "name": "In Rememberance of Thy Suffering"
+  },
+  {
+    "date": "2024-02-18",
+    "slot": "intermediate",
+    "hymn_id": 97,
+    "name": "Lead, Kindly Light"
+  },
+  {
+    "date": "2024-02-18",
+    "slot": "closing",
+    "hymn_id": 294,
+    "name": "Love at Home"
+  },
+  {
+    "date": "2024-02-25",
+    "slot": "opening",
+    "hymn_id": 129,
+    "name": "Where Can I Turn for Peace?"
+  },
+  {
+    "date": "2024-02-25",
+    "slot": "sacrament",
+    "hymn_id": 179,
+    "name": "Again, Our Dear Redeeming Lord"
+  },
+  {
+    "date": "2024-02-25",
+    "slot": "closing",
+    "hymn_id": 96,
+    "name": "Dearest Children, God Is Near You"
+  },
+  {
+    "date": "2024-03-03",
+    "slot": "opening",
+    "hymn_id": 274,
+    "name": "The Iron Rod"
+  },
+  {
+    "date": "2024-03-03",
+    "slot": "sacrament",
+    "hymn_id": 191,
+    "name": "Behold the Great Redeemer Die"
+  },
+  {
+    "date": "2024-03-03",
+    "slot": "closing",
+    "hymn_id": 137,
+    "name": "Testimony"
+  },
+  {
+    "date": "2024-03-10",
+    "slot": "opening",
+    "hymn_id": 3,
+    "name": "Now Let Us Rejoice"
+  },
+  {
+    "date": "2024-03-10",
+    "slot": "sacrament",
+    "hymn_id": 182,
+    "name": "We'll Sing All Hail to Jesus' Name"
+  },
+  {
+    "date": "2024-03-10",
+    "slot": "intermediate",
+    "hymn_id": 89,
+    "name": "The Lord Is My Light"
+  },
+  {
+    "date": "2024-03-10",
+    "slot": "closing",
+    "hymn_id": 263,
+    "name": "Go Forth with Faith"
+  },
+  {
+    "date": "2024-03-17",
+    "slot": "opening",
+    "hymn_id": 140,
+    "name": "Did you Think to Pray?"
+  },
+  {
+    "date": "2024-03-17",
+    "slot": "sacrament",
+    "hymn_id": 175,
+    "name": "O God, the Eternal Father"
+  },
+  {
+    "date": "2024-03-17",
+    "slot": "intermediate",
+    "hymn_id": 252,
+    "name": "Put Your Shoulder to the Wheel"
+  },
+  {
+    "date": "2024-03-17",
+    "slot": "closing",
+    "hymn_id": 308,
+    "name": "Love One Another"
+  },
+  {
+    "date": "2024-03-24",
+    "slot": "opening",
+    "hymn_id": 86,
+    "name": "How Great Thou Art"
+  },
+  {
+    "date": "2024-03-24",
+    "slot": "sacrament",
+    "hymn_id": 193,
+    "name": "I Stand All Amazed"
+  },
+  {
+    "date": "2024-03-24",
+    "slot": "intermediate",
+    "hymn_id": 194,
+    "name": "There Is a Green Hill Far Away"
+  },
+  {
+    "date": "2024-03-24",
+    "slot": "closing",
+    "hymn_id": 141,
+    "name": "Jesus, the Very Thought of Thee"
+  },
+  {
+    "date": "2024-03-31",
+    "slot": "opening",
+    "hymn_id": 62,
+    "name": "All Creatures of Our God and King"
+  },
+  {
+    "date": "2024-03-31",
+    "slot": "sacrament",
+    "hymn_id": 196,
+    "name": "Jesus, Once of Humble Birth"
+  },
+  {
+    "date": "2024-03-31",
+    "slot": "intermediate",
+    "hymn_id": 136,
+    "name": "I Know That My Redeemer Lives"
+  },
+  {
+    "date": "2024-03-31",
+    "slot": "intermediate",
+    "hymn_id": 112,
+    "name": "Savior, Redeemer of My Soul"
+  },
+  {
+    "date": "2024-03-31",
+    "slot": "closing",
+    "hymn_id": 199,
+    "name": "He Is Risen"
+  },
+  {
+    "date": "2024-04-14",
+    "slot": "opening",
+    "hymn_id": 131,
+    "name": "More Holiness Give Me"
+  },
+  {
+    "date": "2024-04-14",
+    "slot": "sacrament",
+    "hymn_id": 180,
+    "name": "Father in Heaven, We Do Believe"
+  },
+  {
+    "date": "2024-04-14",
+    "slot": "closing",
+    "hymn_id": 152,
+    "name": "God Be with You Till We Meet Again"
+  },
+  {
+    "date": "2024-04-21",
+    "slot": "opening",
+    "hymn_id": 26,
+    "name": "Joseph Smith's First Prayer"
+  },
+  {
+    "date": "2024-04-21",
+    "slot": "sacrament",
+    "hymn_id": 188,
+    "name": "Thy Will, O Lord, Be Done"
+  },
+  {
+    "date": "2024-04-21",
+    "slot": "intermediate",
+    "hymn_id": 243,
+    "name": "Let Us All Press On"
+  },
+  {
+    "date": "2024-04-21",
+    "slot": "closing",
+    "hymn_id": 113,
+    "name": "Our Savior's Love"
+  },
+  {
+    "date": "2024-04-28",
+    "slot": "opening",
+    "hymn_id": 58,
+    "name": "Come, Ye Children of the Lord"
+  },
+  {
+    "date": "2024-04-28",
+    "slot": "sacrament",
+    "hymn_id": 171,
+    "name": "With Humble Heart"
+  },
+  {
+    "date": "2024-04-28",
+    "slot": "intermediate",
+    "hymn_id": 223,
+    "name": "Have I Done Any Good?"
+  },
+  {
+    "date": "2024-04-28",
+    "slot": "closing",
+    "hymn_id": 6,
+    "name": "Redeemer of Israel"
+  },
+  {
+    "date": "2024-05-05",
+    "slot": "opening",
+    "hymn_id": 138,
+    "name": "Bless Our Fast, We Pray"
+  },
+  {
+    "date": "2024-05-05",
+    "slot": "sacrament",
+    "hymn_id": 177,
+    "name": "Tis Sweet to Sing the Matchless Love (HANCOCK)"
+  },
+  {
+    "date": "2024-05-05",
+    "slot": "closing",
+    "hymn_id": 144,
+    "name": "Secret Prayer"
+  },
+  {
+    "date": "2024-05-12",
+    "slot": "opening",
+    "hymn_id": 92,
+    "name": "For the Beauty of the Earth"
+  },
+  {
+    "date": "2024-05-12",
+    "slot": "sacrament",
+    "hymn_id": 172,
+    "name": "In Humility, Our Savior"
+  },
+  {
+    "date": "2024-05-12",
+    "slot": "closing",
+    "hymn_id": 304,
+    "name": "Teach Me to Walk in the Light"
+  },
+  {
+    "date": "2024-05-19",
+    "slot": "opening",
+    "hymn_id": 280,
+    "name": "Welcome, Welcome, Sabbath Morning"
+  },
+  {
+    "date": "2024-05-19",
+    "slot": "sacrament",
+    "hymn_id": 173,
+    "name": "While of These Emblems We Partake (SAUL)"
+  },
+  {
+    "date": "2024-05-19",
+    "slot": "intermediate",
+    "hymn_id": 241,
+    "name": "Count Your Blessings"
+  },
+  {
+    "date": "2024-05-19",
+    "slot": "closing",
+    "hymn_id": 125,
+    "name": "How Gentle God's Commands"
+  },
+  {
+    "date": "2024-05-26",
+    "slot": "opening",
+    "hymn_id": 219,
+    "name": "Because I Have Been Given Much"
+  },
+  {
+    "date": "2024-05-26",
+    "slot": "sacrament",
+    "hymn_id": 146,
+    "name": "Gently Raise the Sacred Strain"
+  },
+  {
+    "date": "2024-05-26",
+    "slot": "intermediate",
+    "hymn_id": 81,
+    "name": "Press Forward, Saints"
+  },
+  {
+    "date": "2024-05-26",
+    "slot": "closing",
+    "hymn_id": 7,
+    "name": "Israel, Israel, God Is Calling"
+  },
+  {
+    "date": "2024-06-02",
+    "slot": "opening",
+    "hymn_id": 6,
+    "name": "Redeemer of Israel"
+  },
+  {
+    "date": "2024-06-02",
+    "slot": "intermediate",
+    "hymn_id": 301,
+    "name": "I Am a Child of God"
+  },
+  {
+    "date": "2024-06-02",
+    "slot": "closing",
+    "hymn_id": 85,
+    "name": "How Firm a Foundation"
+  },
+  {
+    "date": "2024-06-09",
+    "slot": "opening",
+    "hymn_id": 1001,
+    "name": "Come, Thou Fount of Every Blessing"
+  },
+  {
+    "date": "2024-06-09",
+    "slot": "sacrament",
+    "hymn_id": 169,
+    "name": "As Now We Take the Sacrament"
+  },
+  {
+    "date": "2024-06-09",
+    "slot": "closing",
+    "hymn_id": 277,
+    "name": "As I Search the Holy Scriptures"
+  },
+  {
+    "date": "2024-06-16",
+    "slot": "opening",
+    "hymn_id": 292,
+    "name": "O My Father"
+  },
+  {
+    "date": "2024-06-16",
+    "slot": "sacrament",
+    "hymn_id": 170,
+    "name": "God, Our Father, Hear Us Pray"
+  },
+  {
+    "date": "2024-06-16",
+    "slot": "closing",
+    "hymn_id": 308,
+    "name": "Love One Another"
+  },
+  {
+    "date": "2024-06-23",
+    "slot": "opening",
+    "hymn_id": 116,
+    "name": "Come, Follow Me"
+  },
+  {
+    "date": "2024-06-23",
+    "slot": "sacrament",
+    "hymn_id": 185,
+    "name": "Reverently and Meekly Now"
+  },
+  {
+    "date": "2024-06-23",
+    "slot": "closing",
+    "hymn_id": 298,
+    "name": "Home Can Be a Heaven on Earth"
+  },
+  {
+    "date": "2024-06-30",
+    "slot": "opening",
+    "hymn_id": 30,
+    "name": "Come, Come, Ye Saints"
+  },
+  {
+    "date": "2024-06-30",
+    "slot": "sacrament",
+    "hymn_id": 186,
+    "name": "Again We Meet around the Board"
+  },
+  {
+    "date": "2024-06-30",
+    "slot": "intermediate",
+    "hymn_id": 227,
+    "name": "There Is Sunshine in My Soul Today"
+  },
+  {
+    "date": "2024-06-30",
+    "slot": "closing",
+    "hymn_id": 130,
+    "name": "Be Thou Humble"
+  },
+  {
+    "date": "2024-07-07",
+    "slot": "opening",
+    "hymn_id": 98,
+    "name": "I Need Thee Every Hour"
+  },
+  {
+    "date": "2024-07-07",
+    "slot": "sacrament",
+    "hymn_id": 1007,
+    "name": "As Bread Is Broken"
+  },
+  {
+    "date": "2024-07-07",
+    "slot": "closing",
+    "hymn_id": 220,
+    "name": "Lord, I Would Follow Thee"
+  },
+  {
+    "date": "2024-07-14",
+    "slot": "opening",
+    "hymn_id": 142,
+    "name": "Sweet Hour of Prayer"
+  },
+  {
+    "date": "2024-07-14",
+    "slot": "sacrament",
+    "hymn_id": 181,
+    "name": "Jesus of Nazareth, Savior and King"
+  },
+  {
+    "date": "2024-07-14",
+    "slot": "intermediate",
+    "hymn_id": 105,
+    "name": "Master, the Tempest Is Raging"
+  },
+  {
+    "date": "2024-07-14",
+    "slot": "closing",
+    "hymn_id": 97,
+    "name": "Lead, Kindly Light"
+  },
+  {
+    "date": "2024-07-14",
+    "slot": "opening",
+    "hymn_id": 5,
+    "name": "High on the Mountain Top"
+  },
+  {
+    "date": "2024-07-14",
+    "slot": "sacrament",
+    "hymn_id": 176,
+    "name": "Tis Sweet to Sing the Matchless Love (MEREDITH)"
+  },
+  {
+    "date": "2024-07-14",
+    "slot": "intermediate",
+    "hymn_id": 252,
+    "name": "Put Your Shoulder to the Wheel"
+  },
+  {
+    "date": "2024-07-14",
+    "slot": "closing",
+    "hymn_id": 143,
+    "name": "Let the Holy Spirit Guide"
+  },
+  {
+    "date": "2024-07-14",
+    "slot": "opening",
+    "hymn_id": 58,
+    "name": "Come, Ye Children of the Lord"
+  },
+  {
+    "date": "2024-07-14",
+    "slot": "sacrament",
+    "hymn_id": 192,
+    "name": "He Died! The Great Redeemer Died"
+  },
+  {
+    "date": "2024-07-14",
+    "slot": "intermediate",
+    "hymn_id": 83,
+    "name": "Guide Us, O Thou Great Jehovah"
+  },
+  {
+    "date": "2024-07-14",
+    "slot": "closing",
+    "hymn_id": 270,
+    "name": "I'll Go Where You Want Me to Go"
+  },
+  {
+    "date": "2024-07-14",
+    "slot": "opening",
+    "hymn_id": 139,
+    "name": "In Fasting We Approach Thee"
+  },
+  {
+    "date": "2024-07-14",
+    "slot": "sacrament",
+    "hymn_id": 184,
+    "name": "Upon the Cross of Calvary"
+  },
+  {
+    "date": "2024-07-14",
+    "slot": "closing",
+    "hymn_id": 66,
+    "name": "Rejoice, the Lord Is King!"
+  },
+  {
+    "date": "2024-07-21",
+    "slot": "opening",
+    "hymn_id": 5,
+    "name": "High on the Mountain Top"
+  },
+  {
+    "date": "2024-07-21",
+    "slot": "sacrament",
+    "hymn_id": 176,
+    "name": "Tis Sweet to Sing the Matchless Love (MEREDITH)"
+  },
+  {
+    "date": "2024-07-21",
+    "slot": "intermediate",
+    "hymn_id": 252,
+    "name": "Put Your Shoulder to the Wheel"
+  },
+  {
+    "date": "2024-07-21",
+    "slot": "closing",
+    "hymn_id": 143,
+    "name": "Let the Holy Spirit Guide"
+  },
+  {
+    "date": "2024-07-28",
+    "slot": "opening",
+    "hymn_id": 58,
+    "name": "Come, Ye Children of the Lord"
+  },
+  {
+    "date": "2024-07-28",
+    "slot": "sacrament",
+    "hymn_id": 192,
+    "name": "He Died! The Great Redeemer Died"
+  },
+  {
+    "date": "2024-07-28",
+    "slot": "intermediate",
+    "hymn_id": 83,
+    "name": "Guide Us, O Thou Great Jehovah"
+  },
+  {
+    "date": "2024-07-28",
+    "slot": "closing",
+    "hymn_id": 270,
+    "name": "I'll Go Where You Want Me to Go"
+  },
+  {
+    "date": "2024-08-04",
+    "slot": "opening",
+    "hymn_id": 139,
+    "name": "In Fasting We Approach Thee"
+  },
+  {
+    "date": "2024-08-04",
+    "slot": "sacrament",
+    "hymn_id": 184,
+    "name": "Upon the Cross of Calvary"
+  },
+  {
+    "date": "2024-08-04",
+    "slot": "closing",
+    "hymn_id": 66,
+    "name": "Rejoice, the Lord Is King!"
+  },
+  {
+    "date": "2024-08-11",
+    "slot": "opening",
+    "hymn_id": 237,
+    "name": "Do What Is Right"
+  },
+  {
+    "date": "2024-08-11",
+    "slot": "sacrament",
+    "hymn_id": 195,
+    "name": "How Great the Wisdom and the Love"
+  },
+  {
+    "date": "2024-08-11",
+    "slot": "intermediate",
+    "hymn_id": 264,
+    "name": "Hark, All Ye Nations!"
+  },
+  {
+    "date": "2024-08-11",
+    "slot": "closing",
+    "hymn_id": 166,
+    "name": "Abide with Me!"
+  },
+  {
+    "date": "2024-08-18",
+    "slot": "opening",
+    "hymn_id": 52,
+    "name": "The Day Dawn Is Breaking"
+  },
+  {
+    "date": "2024-08-18",
+    "slot": "sacrament",
+    "hymn_id": 191,
+    "name": "Behold the Great Redeemer Die"
+  },
+  {
+    "date": "2024-08-18",
+    "slot": "intermediate",
+    "hymn_id": 100,
+    "name": "Nearer, My God, To Thee"
+  },
+  {
+    "date": "2024-08-18",
+    "slot": "closing",
+    "hymn_id": 220,
+    "name": "Lord, I Would Follow Thee"
+  },
+  {
+    "date": "2024-08-25",
+    "slot": "opening",
+    "hymn_id": 249,
+    "name": "Called to Serve"
+  },
+  {
+    "date": "2024-08-25",
+    "slot": "sacrament",
+    "hymn_id": 1008,
+    "name": "Bread of Life, Living Water"
+  },
+  {
+    "date": "2024-08-25",
+    "slot": "intermediate",
+    "hymn_id": 3,
+    "name": "Now Let Us Rejoice"
+  },
+  {
+    "date": "2024-08-25",
+    "slot": "closing",
+    "hymn_id": 136,
+    "name": "I Know That My Redeemer Lives"
+  },
+  {
+    "date": "2024-09-01",
+    "slot": "opening",
+    "hymn_id": 129,
+    "name": "Where Can I Turn for Peace?"
+  },
+  {
+    "date": "2024-09-01",
+    "slot": "sacrament",
+    "hymn_id": 187,
+    "name": "God Loved Us, So He Sent His Son"
+  },
+  {
+    "date": "2024-09-01",
+    "slot": "closing",
+    "hymn_id": 263,
+    "name": "Go Forth with Faith"
+  },
+  {
+    "date": "2024-09-08",
+    "slot": "opening",
+    "hymn_id": 113,
+    "name": "Our Savior's Love"
+  },
+  {
+    "date": "2024-09-08",
+    "slot": "sacrament",
+    "hymn_id": 190,
+    "name": "In Memory of the Crucified"
+  },
+  {
+    "date": "2024-09-08",
+    "slot": "intermediate",
+    "hymn_id": 239,
+    "name": "Choose the Right"
+  },
+  {
+    "date": "2024-09-08",
+    "slot": "closing",
+    "hymn_id": 153,
+    "name": "Lord, We Ask Thee Ere We Part"
+  },
+  {
+    "date": "2024-09-15",
+    "slot": "opening",
+    "hymn_id": 117,
+    "name": "Come unto Jesus"
+  },
+  {
+    "date": "2024-09-15",
+    "slot": "sacrament",
+    "hymn_id": 174,
+    "name": "While of These Emblems We Partake (AEOLIAN)"
+  },
+  {
+    "date": "2024-09-15",
+    "slot": "intermediate",
+    "hymn_id": 106,
+    "name": "God Speed the Right"
+  },
+  {
+    "date": "2024-09-15",
+    "slot": "closing",
+    "hymn_id": 274,
+    "name": "The Iron Rod"
+  },
+  {
+    "date": "2024-09-22",
+    "slot": "opening",
+    "hymn_id": 140,
+    "name": "Did you Think to Pray?"
+  },
+  {
+    "date": "2024-09-22",
+    "slot": "sacrament",
+    "hymn_id": 178,
+    "name": "O Lord of Hosts"
+  },
+  {
+    "date": "2024-09-22",
+    "slot": "intermediate",
+    "hymn_id": 89,
+    "name": "The Lord Is My Light"
+  },
+  {
+    "date": "2024-09-22",
+    "slot": "closing",
+    "hymn_id": 156,
+    "name": "Sing We Now at Parting"
+  },
+  {
+    "date": "2024-09-29",
+    "slot": "opening",
+    "hymn_id": 294,
+    "name": "Love at Home"
+  },
+  {
+    "date": "2024-09-29",
+    "slot": "sacrament",
+    "hymn_id": 179,
+    "name": "Again, Our Dear Redeeming Lord"
+  },
+  {
+    "date": "2024-09-29",
+    "slot": "closing",
+    "hymn_id": 247,
+    "name": "We Love Thy House, O God"
+  },
+  {
+    "date": "2024-10-13",
+    "slot": "opening",
+    "hymn_id": 124,
+    "name": "Be Still, My Soul"
+  },
+  {
+    "date": "2024-10-13",
+    "slot": "sacrament",
+    "hymn_id": 193,
+    "name": "I Stand All Amazed"
+  },
+  {
+    "date": "2024-10-13",
+    "slot": "intermediate",
+    "hymn_id": 1014,
+    "name": "My Shepherd Will Supply My Need"
+  },
+  {
+    "date": "2024-10-13",
+    "slot": "closing",
+    "hymn_id": 147,
+    "name": "Sweet Is the Work"
+  },
+  {
+    "date": "2024-10-20",
+    "slot": "opening",
+    "hymn_id": 62,
+    "name": "All Creatures of Our God and King"
+  },
+  {
+    "date": "2024-10-20",
+    "slot": "sacrament",
+    "hymn_id": 196,
+    "name": "Jesus, Once of Humble Birth"
+  },
+  {
+    "date": "2024-10-20",
+    "slot": "intermediate",
+    "hymn_id": 1013,
+    "name": "God's Gracious Love"
+  },
+  {
+    "date": "2024-10-20",
+    "slot": "closing",
+    "hymn_id": 96,
+    "name": "Dearest Children, God Is Near You"
+  },
+  {
+    "date": "2024-10-27",
+    "slot": "opening",
+    "hymn_id": 1,
+    "name": "The Morning Breaks"
+  },
+  {
+    "date": "2024-10-27",
+    "slot": "sacrament",
+    "hymn_id": 182,
+    "name": "We'll Sing All Hail to Jesus' Name"
+  },
+  {
+    "date": "2024-10-27",
+    "slot": "closing",
+    "hymn_id": 134,
+    "name": "I Believe in Christ"
+  },
+  {
+    "date": "2024-11-03",
+    "slot": "opening",
+    "hymn_id": 1010,
+    "name": "Amazing Grace"
+  },
+  {
+    "date": "2024-11-03",
+    "slot": "sacrament",
+    "hymn_id": 183,
+    "name": "In Rememberance of Thy Suffering"
+  },
+  {
+    "date": "2024-11-03",
+    "slot": "closing",
+    "hymn_id": 137,
+    "name": "Testimony"
+  },
+  {
+    "date": "2024-11-10",
+    "slot": "opening",
+    "hymn_id": 280,
+    "name": "Welcome, Welcome, Sabbath Morning"
+  },
+  {
+    "date": "2024-11-10",
+    "slot": "sacrament",
+    "hymn_id": 1016,
+    "name": "Behold the Wounds in Jesus' Hands"
+  },
+  {
+    "date": "2024-11-10",
+    "slot": "closing",
+    "hymn_id": 301,
+    "name": "I Am a Child of God"
+  },
+  {
+    "date": "2024-11-24",
+    "slot": "opening",
+    "hymn_id": 85,
+    "name": "How Firm a Foundation"
+  },
+  {
+    "date": "2024-11-24",
+    "slot": "opening",
+    "hymn_id": 85,
+    "name": "How Firm a Foundation"
+  },
+  {
+    "date": "2024-11-24",
+    "slot": "sacrament",
+    "hymn_id": 194,
+    "name": "There Is a Green Hill Far Away"
+  },
+  {
+    "date": "2024-11-24",
+    "slot": "intermediate",
+    "hymn_id": 131,
+    "name": "More Holiness Give Me"
+  },
+  {
+    "date": "2024-11-24",
+    "slot": "closing",
+    "hymn_id": 92,
+    "name": "For the Beauty of the Earth"
+  },
+  {
+    "date": "2024-12-01",
+    "slot": "opening",
+    "hymn_id": 202,
+    "name": "Oh, Come, All Ye Faithful"
+  },
+  {
+    "date": "2024-12-01",
+    "slot": "sacrament",
+    "hymn_id": 188,
+    "name": "Thy Will, O Lord, Be Done"
+  },
+  {
+    "date": "2024-12-01",
+    "slot": "closing",
+    "hymn_id": 213,
+    "name": "The First Noel"
+  },
+  {
+    "date": "2024-12-08",
+    "slot": "opening",
+    "hymn_id": 203,
+    "name": "Angels We Have Heard on High"
+  },
+  {
+    "date": "2024-12-08",
+    "slot": "sacrament",
+    "hymn_id": 171,
+    "name": "With Humble Heart"
+  },
+  {
+    "date": "2024-12-08",
+    "slot": "intermediate",
+    "hymn_id": 212,
+    "name": "Far, Far, Away on Judea's Plains"
+  },
+  {
+    "date": "2024-12-08",
+    "slot": "closing",
+    "hymn_id": 207,
+    "name": "It Came upon the Midnight Clear"
+  },
+  {
+    "date": "2024-12-15",
+    "slot": "opening",
+    "hymn_id": 201,
+    "name": "Joy to the World"
+  },
+  {
+    "date": "2024-12-15",
+    "slot": "sacrament",
+    "hymn_id": 196,
+    "name": "Jesus, Once of Humble Birth"
+  },
+  {
+    "date": "2024-12-15",
+    "slot": "closing",
+    "hymn_id": 204,
+    "name": "Silent Night"
+  },
+  {
+    "date": "2024-12-22",
+    "slot": "opening",
+    "hymn_id": 209,
+    "name": "Hark! The Herald Angels Sing"
+  },
+  {
+    "date": "2024-12-22",
+    "slot": "sacrament",
+    "hymn_id": 141,
+    "name": "Jesus, the Very Thought of Thee"
+  },
+  {
+    "date": "2024-12-22",
+    "slot": "intermediate",
+    "hymn_id": 214,
+    "name": "I Heard the Bells on Christmas Day"
+  },
+  {
+    "date": "2024-12-22",
+    "slot": "closing",
+    "hymn_id": 208,
+    "name": "O Little Town Of Bethlehem"
+  },
+  {
+    "date": "2024-12-29",
+    "slot": "opening",
+    "hymn_id": 217,
+    "name": "Come, Let Us Anew"
+  },
+  {
+    "date": "2024-12-29",
+    "slot": "sacrament",
+    "hymn_id": 175,
+    "name": "O God, the Eternal Father"
+  },
+  {
+    "date": "2024-12-29",
+    "slot": "intermediate",
+    "hymn_id": 215,
+    "name": "Ring Out, Wild Bells"
+  },
+  {
+    "date": "2024-12-29",
+    "slot": "closing",
+    "hymn_id": 241,
+    "name": "Count Your Blessings"
+  },
+  {
+    "date": "2025-01-05",
+    "slot": "opening",
+    "hymn_id": 116,
+    "name": "Come, Follow Me"
+  },
+  {
+    "date": "2025-01-05",
+    "slot": "sacrament",
+    "hymn_id": 180,
+    "name": "Father in Heaven, We Do Believe"
+  },
+  {
+    "date": "2025-01-05",
+    "slot": "closing",
+    "hymn_id": 304,
+    "name": "Teach Me to Walk in the Light"
+  },
+  {
+    "date": "2025-01-12",
+    "slot": "opening",
+    "hymn_id": 219,
+    "name": "Because I Have Been Given Much"
+  },
+  {
+    "date": "2025-01-12",
+    "slot": "sacrament",
+    "hymn_id": 177,
+    "name": "Tis Sweet to Sing the Matchless Love (HANCOCK)"
+  },
+  {
+    "date": "2025-01-12",
+    "slot": "intermediate",
+    "hymn_id": 1003,
+    "name": "It Is Well With My Soul"
+  },
+  {
+    "date": "2025-01-12",
+    "slot": "closing",
+    "hymn_id": 7,
+    "name": "Israel, Israel, God Is Calling"
+  },
+  {
+    "date": "2025-01-26",
+    "slot": "opening",
+    "hymn_id": 86,
+    "name": "How Great Thou Art"
+  },
+  {
+    "date": "2025-01-26",
+    "slot": "sacrament",
+    "hymn_id": 173,
+    "name": "While of These Emblems We Partake (SAUL)"
+  },
+  {
+    "date": "2025-01-26",
+    "slot": "closing",
+    "hymn_id": 1001,
+    "name": "Come, Thou Fount of Every Blessing"
+  },
+  {
+    "date": "2025-02-02",
+    "slot": "opening",
+    "hymn_id": 138,
+    "name": "Bless Our Fast, We Pray"
+  },
+  {
+    "date": "2025-02-02",
+    "slot": "sacrament",
+    "hymn_id": 146,
+    "name": "Gently Raise the Sacred Strain"
+  },
+  {
+    "date": "2025-02-02",
+    "slot": "closing",
+    "hymn_id": 302,
+    "name": "I Know My Father Lives"
+  },
+  {
+    "date": "2025-02-09",
+    "slot": "opening",
+    "hymn_id": 6,
+    "name": "Redeemer of Israel"
+  },
+  {
+    "date": "2025-02-09",
+    "slot": "sacrament",
+    "hymn_id": 172,
+    "name": "In Humility, Our Savior"
+  },
+  {
+    "date": "2025-02-09",
+    "slot": "closing",
+    "hymn_id": 136,
+    "name": "I Know That My Redeemer Lives"
+  },
+  {
+    "date": "2025-02-16",
+    "slot": "opening",
+    "hymn_id": 97,
+    "name": "Lead, Kindly Light"
+  },
+  {
+    "date": "2025-02-16",
+    "slot": "sacrament",
+    "hymn_id": 1007,
+    "name": "As Bread Is Broken"
+  },
+  {
+    "date": "2025-02-16",
+    "slot": "closing",
+    "hymn_id": 125,
+    "name": "How Gentle God's Commands"
+  },
+  {
+    "date": "2025-02-23",
+    "slot": "opening",
+    "hymn_id": 98,
+    "name": "I Need Thee Every Hour"
+  },
+  {
+    "date": "2025-02-23",
+    "slot": "sacrament",
+    "hymn_id": 181,
+    "name": "Jesus of Nazareth, Savior and King"
+  },
+  {
+    "date": "2025-02-23",
+    "slot": "intermediate",
+    "hymn_id": 230,
+    "name": "Scatter Sunshine"
+  },
+  {
+    "date": "2025-02-23",
+    "slot": "closing",
+    "hymn_id": 152,
+    "name": "God Be with You Till We Meet Again"
+  },
+  {
+    "date": "2025-03-03",
+    "slot": "opening",
+    "hymn_id": 58,
+    "name": "Come, Ye Children of the Lord"
+  },
+  {
+    "date": "2025-03-03",
+    "slot": "sacrament",
+    "hymn_id": 169,
+    "name": "As Now We Take the Sacrament"
+  },
+  {
+    "date": "2025-03-03",
+    "slot": "closing",
+    "hymn_id": 249,
+    "name": "Called to Serve"
+  },
+  {
+    "date": "2025-03-09",
+    "slot": "opening",
+    "hymn_id": 227,
+    "name": "There Is Sunshine in My Soul Today"
+  },
+  {
+    "date": "2025-03-09",
+    "slot": "sacrament",
+    "hymn_id": 170,
+    "name": "God, Our Father, Hear Us Pray"
+  },
+  {
+    "date": "2025-03-09",
+    "slot": "intermediate",
+    "hymn_id": 1005,
+    "name": "His Eye Is on the Sparrow"
+  },
+  {
+    "date": "2025-03-09",
+    "slot": "closing",
+    "hymn_id": 243,
+    "name": "Let Us All Press On"
+  },
+  {
+    "date": "2025-03-16",
+    "slot": "opening",
+    "hymn_id": 67,
+    "name": "Glory to God on High"
+  },
+  {
+    "date": "2025-03-16",
+    "slot": "sacrament",
+    "hymn_id": 185,
+    "name": "Reverently and Meekly Now"
+  },
+  {
+    "date": "2025-03-16",
+    "slot": "closing",
+    "hymn_id": 263,
+    "name": "Go Forth with Faith"
+  },
+  {
+    "date": "2025-03-23",
+    "slot": "opening",
+    "hymn_id": 5,
+    "name": "High on the Mountain Top"
+  },
+  {
+    "date": "2025-03-23",
+    "slot": "sacrament",
+    "hymn_id": 186,
+    "name": "Again We Meet around the Board"
+  },
+  {
+    "date": "2025-03-23",
+    "slot": "intermediate",
+    "hymn_id": 60,
+    "name": "Battle Hymn of the Republic"
+  },
+  {
+    "date": "2025-03-23",
+    "slot": "closing",
+    "hymn_id": 270,
+    "name": "I'll Go Where You Want Me to Go"
+  },
+  {
+    "date": "2025-03-30",
+    "slot": "opening",
+    "hymn_id": 30,
+    "name": "Come, Come, Ye Saints"
+  },
+  {
+    "date": "2025-03-30",
+    "slot": "sacrament",
+    "hymn_id": 176,
+    "name": "Tis Sweet to Sing the Matchless Love (MEREDITH)"
+  },
+  {
+    "date": "2025-04-13",
+    "slot": "opening",
+    "hymn_id": 69,
+    "name": "All Glory, laud, and Honor"
+  },
+  {
+    "date": "2025-04-13",
+    "slot": "sacrament",
+    "hymn_id": 196,
+    "name": "Jesus, Once of Humble Birth"
+  },
+  {
+    "date": "2025-04-13",
+    "slot": "intermediate",
+    "hymn_id": 1201,
+    "name": "Hail the Day that Sees Him Rise"
+  },
+  {
+    "date": "2025-04-13",
+    "slot": "closing",
+    "hymn_id": 220,
+    "name": "Lord, I Would Follow Thee"
+  },
+  {
+    "date": "2025-04-20",
+    "slot": "opening",
+    "hymn_id": 199,
+    "name": "He Is Risen"
+  },
+  {
+    "date": "2025-04-20",
+    "slot": "sacrament",
+    "hymn_id": 194,
+    "name": "There Is a Green Hill Far Away"
+  },
+  {
+    "date": "2025-04-20",
+    "slot": "closing",
+    "hymn_id": 200,
+    "name": "Christ the Lord Is Risen Today"
+  },
+  {
+    "date": "2025-04-27",
+    "slot": "opening",
+    "hymn_id": 26,
+    "name": "Joseph Smith's First Prayer"
+  },
+  {
+    "date": "2025-04-27",
+    "slot": "sacrament",
+    "hymn_id": 184,
+    "name": "Upon the Cross of Calvary"
+  },
+  {
+    "date": "2025-04-27",
+    "slot": "intermediate",
+    "hymn_id": 81,
+    "name": "Press Forward, Saints"
+  },
+  {
+    "date": "2025-04-27",
+    "slot": "closing",
+    "hymn_id": 66,
+    "name": "Rejoice, the Lord Is King!"
+  },
+  {
+    "date": "2025-05-04",
+    "slot": "opening",
+    "hymn_id": 140,
+    "name": "Did you Think to Pray?"
+  },
+  {
+    "date": "2025-05-04",
+    "slot": "sacrament",
+    "hymn_id": 195,
+    "name": "How Great the Wisdom and the Love"
+  },
+  {
+    "date": "2025-05-04",
+    "slot": "closing",
+    "hymn_id": 303,
+    "name": "Keep the Commandments"
+  },
+  {
+    "date": "2025-05-11",
+    "slot": "opening",
+    "hymn_id": 97,
+    "name": "Lead, Kindly Light"
+  },
+  {
+    "date": "2025-05-11",
+    "slot": "sacrament",
+    "hymn_id": 177,
+    "name": "Tis Sweet to Sing the Matchless Love (HANCOCK)"
+  },
+  {
+    "date": "2025-05-11",
+    "slot": "closing",
+    "hymn_id": 117,
+    "name": "Come unto Jesus"
+  },
+  {
+    "date": "2025-05-18",
+    "slot": "opening",
+    "hymn_id": 129,
+    "name": "Where Can I Turn for Peace?"
+  },
+  {
+    "date": "2025-05-18",
+    "slot": "sacrament",
+    "hymn_id": 191,
+    "name": "Behold the Great Redeemer Die"
+  },
+  {
+    "date": "2025-05-18",
+    "slot": "closing",
+    "hymn_id": 274,
+    "name": "The Iron Rod"
+  },
+  {
+    "date": "2025-05-25",
+    "slot": "opening",
+    "hymn_id": 264,
+    "name": "Hark, All Ye Nations!"
+  },
+  {
+    "date": "2025-05-25",
+    "slot": "sacrament",
+    "hymn_id": 192,
+    "name": "He Died! The Great Redeemer Died"
+  },
+  {
+    "date": "2025-05-25",
+    "slot": "intermediate",
+    "hymn_id": 228,
+    "name": "You Can Make the Pathway Bright"
+  },
+  {
+    "date": "2025-05-25",
+    "slot": "closing",
+    "hymn_id": 143,
+    "name": "Let the Holy Spirit Guide"
+  },
+  {
+    "date": "2025-06-01",
+    "slot": "opening",
+    "hymn_id": 6,
+    "name": "Redeemer of Israel"
+  },
+  {
+    "date": "2025-06-01",
+    "slot": "intermediate",
+    "hymn_id": 193,
+    "name": "I Stand All Amazed"
+  },
+  {
+    "date": "2025-06-01",
+    "slot": "closing",
+    "hymn_id": 64,
+    "name": "On This Day of Joy and Gladness"
+  },
+  {
+    "date": "2025-06-01",
+    "slot": "opening",
+    "hymn_id": 220,
+    "name": "Lord, I Would Follow Thee"
+  },
+  {
+    "date": "2025-06-01",
+    "slot": "intermediate",
+    "hymn_id": 136,
+    "name": "I Know That My Redeemer Lives"
+  },
+  {
+    "date": "2025-06-01",
+    "slot": "closing",
+    "hymn_id": 165,
+    "name": "Abide with Me, 'Tis Eventide"
+  },
+  {
+    "date": "2025-06-08",
+    "slot": "opening",
+    "hymn_id": 131,
+    "name": "More Holiness Give Me"
+  },
+  {
+    "date": "2025-06-08",
+    "slot": "sacrament",
+    "hymn_id": 187,
+    "name": "God Loved Us, So He Sent His Son"
+  },
+  {
+    "date": "2025-06-08",
+    "slot": "closing",
+    "hymn_id": 147,
+    "name": "Sweet Is the Work"
+  },
+  {
+    "date": "2025-06-15",
+    "slot": "opening",
+    "hymn_id": 292,
+    "name": "O My Father"
+  },
+  {
+    "date": "2025-06-15",
+    "slot": "sacrament",
+    "hymn_id": 180,
+    "name": "Father in Heaven, We Do Believe"
+  },
+  {
+    "date": "2025-06-15",
+    "slot": "intermediate",
+    "hymn_id": 304,
+    "name": "Teach Me to Walk in the Light"
+  },
+  {
+    "date": "2025-06-15",
+    "slot": "closing",
+    "hymn_id": 302,
+    "name": "I Know My Father Lives"
+  },
+  {
+    "date": "2025-06-21",
+    "slot": "opening",
+    "hymn_id": 113,
+    "name": "Our Savior's Love"
+  },
+  {
+    "date": "2025-06-21",
+    "slot": "sacrament",
+    "hymn_id": 1016,
+    "name": "Behold the Wounds in Jesus' Hands"
+  },
+  {
+    "date": "2025-06-21",
+    "slot": "intermediate",
+    "hymn_id": 223,
+    "name": "Have I Done Any Good?"
+  },
+  {
+    "date": "2025-06-21",
+    "slot": "closing",
+    "hymn_id": 239,
+    "name": "Choose the Right"
+  },
+  {
+    "date": "2025-06-29",
+    "slot": "opening",
+    "hymn_id": 1014,
+    "name": "My Shepherd Will Supply My Need"
+  },
+  {
+    "date": "2025-06-29",
+    "slot": "sacrament",
+    "hymn_id": 190,
+    "name": "In Memory of the Crucified"
+  },
+  {
+    "date": "2025-06-29",
+    "slot": "intermediate",
+    "hymn_id": 252,
+    "name": "Put Your Shoulder to the Wheel"
+  },
+  {
+    "date": "2025-06-29",
+    "slot": "closing",
+    "hymn_id": 298,
+    "name": "Home Can Be a Heaven on Earth"
+  },
+  {
+    "date": "2025-07-06",
+    "slot": "opening",
+    "hymn_id": 85,
+    "name": "How Firm a Foundation"
+  },
+  {
+    "date": "2025-07-06",
+    "slot": "sacrament",
+    "hymn_id": 174,
+    "name": "While of These Emblems We Partake (AEOLIAN)"
+  },
+  {
+    "date": "2025-07-06",
+    "slot": "closing",
+    "hymn_id": 308,
+    "name": "Love One Another"
+  },
+  {
+    "date": "2025-07-13",
+    "slot": "opening",
+    "hymn_id": 142,
+    "name": "Sweet Hour of Prayer"
+  },
+  {
+    "date": "2025-07-13",
+    "slot": "sacrament",
+    "hymn_id": 178,
+    "name": "O Lord of Hosts"
+  },
+  {
+    "date": "2025-07-13",
+    "slot": "intermediate",
+    "hymn_id": 100,
+    "name": "Nearer, My God, To Thee"
+  },
+  {
+    "date": "2025-07-13",
+    "slot": "closing",
+    "hymn_id": 277,
+    "name": "As I Search the Holy Scriptures"
+  },
+  {
+    "date": "2025-07-20",
+    "slot": "opening",
+    "hymn_id": 280,
+    "name": "Welcome, Welcome, Sabbath Morning"
+  },
+  {
+    "date": "2025-07-20",
+    "slot": "sacrament",
+    "hymn_id": 182,
+    "name": "We'll Sing All Hail to Jesus' Name"
+  },
+  {
+    "date": "2025-07-20",
+    "slot": "closing",
+    "hymn_id": 124,
+    "name": "Be Still, My Soul"
+  },
+  {
+    "date": "2025-07-27",
+    "slot": "opening",
+    "hymn_id": 3,
+    "name": "Now Let Us Rejoice"
+  },
+  {
+    "date": "2025-07-27",
+    "slot": "sacrament",
+    "hymn_id": 179,
+    "name": "Again, Our Dear Redeeming Lord"
+  },
+  {
+    "date": "2025-07-27",
+    "slot": "intermediate",
+    "hymn_id": 105,
+    "name": "Master, the Tempest Is Raging"
+  },
+  {
+    "date": "2025-07-27",
+    "slot": "closing",
+    "hymn_id": 92,
+    "name": "For the Beauty of the Earth"
+  },
+  {
+    "date": "2025-08-03",
+    "slot": "opening",
+    "hymn_id": 139,
+    "name": "In Fasting We Approach Thee"
+  },
+  {
+    "date": "2025-08-03",
+    "slot": "sacrament",
+    "hymn_id": 171,
+    "name": "With Humble Heart"
+  },
+  {
+    "date": "2025-08-03",
+    "slot": "closing",
+    "hymn_id": 294,
+    "name": "Love at Home"
+  },
+  {
+    "date": "2025-08-10",
+    "slot": "opening",
+    "hymn_id": 5,
+    "name": "High on the Mountain Top"
+  },
+  {
+    "date": "2025-08-10",
+    "slot": "sacrament",
+    "hymn_id": 1008,
+    "name": "Bread of Life, Living Water"
+  },
+  {
+    "date": "2025-08-10",
+    "slot": "intermediate",
+    "hymn_id": 89,
+    "name": "The Lord Is My Light"
+  },
+  {
+    "date": "2025-08-10",
+    "slot": "closing",
+    "hymn_id": 237,
+    "name": "Do What Is Right"
+  },
+  {
+    "date": "2025-08-17",
+    "slot": "opening",
+    "hymn_id": 52,
+    "name": "The Day Dawn Is Breaking"
+  },
+  {
+    "date": "2025-08-17",
+    "slot": "sacrament",
+    "hymn_id": 188,
+    "name": "Thy Will, O Lord, Be Done"
+  },
+  {
+    "date": "2025-08-17",
+    "slot": "intermediate",
+    "hymn_id": 255,
+    "name": "Carry On"
+  },
+  {
+    "date": "2025-08-17",
+    "slot": "closing",
+    "hymn_id": 96,
+    "name": "Dearest Children, God Is Near You"
+  },
+  {
+    "date": "2025-08-24",
+    "slot": "opening",
+    "hymn_id": 86,
+    "name": "How Great Thou Art"
+  },
+  {
+    "date": "2025-08-24",
+    "slot": "sacrament",
+    "hymn_id": 189,
+    "name": "O Thou, Before the World Began"
+  },
+  {
+    "date": "2025-08-24",
+    "slot": "intermediate",
+    "hymn_id": 241,
+    "name": "Count Your Blessings"
+  },
+  {
+    "date": "2025-08-24",
+    "slot": "closing",
+    "hymn_id": 263,
+    "name": "Go Forth with Faith"
+  },
+  {
+    "date": "2025-08-31",
+    "slot": "opening",
+    "hymn_id": 58,
+    "name": "Come, Ye Children of the Lord"
+  },
+  {
+    "date": "2025-08-31",
+    "slot": "sacrament",
+    "hymn_id": 183,
+    "name": "In Rememberance of Thy Suffering"
+  },
+  {
+    "date": "2025-08-31",
+    "slot": "closing",
+    "hymn_id": 156,
+    "name": "Sing We Now at Parting"
+  },
+  {
+    "date": "2025-09-07",
+    "slot": "opening",
+    "hymn_id": 219,
+    "name": "Because I Have Been Given Much"
+  },
+  {
+    "date": "2025-09-07",
+    "slot": "sacrament",
+    "hymn_id": 173,
+    "name": "While of These Emblems We Partake (SAUL)"
+  },
+  {
+    "date": "2025-09-07",
+    "slot": "intermediate",
+    "hymn_id": 1010,
+    "name": "Amazing Grace"
+  },
+  {
+    "date": "2025-09-07",
+    "slot": "closing",
+    "hymn_id": 166,
+    "name": "Abide with Me!"
+  },
+  {
+    "date": "2025-09-14",
+    "slot": "opening",
+    "hymn_id": 62,
+    "name": "All Creatures of Our God and King"
+  },
+  {
+    "date": "2025-09-14",
+    "slot": "sacrament",
+    "hymn_id": 175,
+    "name": "O God, the Eternal Father"
+  },
+  {
+    "date": "2025-09-14",
+    "slot": "intermediate",
+    "hymn_id": 250,
+    "name": "We Are All Enlisted"
+  },
+  {
+    "date": "2025-09-14",
+    "slot": "closing",
+    "hymn_id": 137,
+    "name": "Testimony"
+  },
+  {
+    "date": "2025-09-21",
+    "slot": "opening",
+    "hymn_id": 116,
+    "name": "Come, Follow Me"
+  },
+  {
+    "date": "2025-09-21",
+    "slot": "sacrament",
+    "hymn_id": 170,
+    "name": "God, Our Father, Hear Us Pray"
+  },
+  {
+    "date": "2025-09-21",
+    "slot": "intermediate",
+    "hymn_id": 1013,
+    "name": "God's Gracious Love"
+  },
+  {
+    "date": "2025-09-21",
+    "slot": "closing",
+    "hymn_id": 141,
+    "name": "Jesus, the Very Thought of Thee"
+  },
+  {
+    "date": "2025-09-28",
+    "slot": "opening",
+    "hymn_id": 19,
+    "name": "We Thank Thee, O God, for a Prophet"
+  },
+  {
+    "date": "2025-09-28",
+    "slot": "sacrament",
+    "hymn_id": 1007,
+    "name": "As Bread Is Broken"
+  },
+  {
+    "date": "2025-09-28",
+    "slot": "closing",
+    "hymn_id": 152,
+    "name": "God Be with You Till We Meet Again"
+  },
+  {
+    "date": "2025-10-12",
+    "slot": "opening",
+    "hymn_id": 220,
+    "name": "Lord, I Would Follow Thee"
+  },
+  {
+    "date": "2025-10-12",
+    "slot": "sacrament",
+    "hymn_id": 169,
+    "name": "As Now We Take the Sacrament"
+  },
+  {
+    "date": "2025-10-12",
+    "slot": "intermediate",
+    "hymn_id": 81,
+    "name": "Press Forward, Saints"
+  },
+  {
+    "date": "2025-10-12",
+    "slot": "closing",
+    "hymn_id": 140,
+    "name": "Did you Think to Pray?"
+  },
+  {
+    "date": "2025-10-19",
+    "slot": "opening",
+    "hymn_id": 264,
+    "name": "Hark, All Ye Nations!"
+  },
+  {
+    "date": "2025-10-19",
+    "slot": "sacrament",
+    "hymn_id": 181,
+    "name": "Jesus of Nazareth, Savior and King"
+  },
+  {
+    "date": "2025-10-19",
+    "slot": "intermediate",
+    "hymn_id": 1001,
+    "name": "Come, Thou Fount of Every Blessing"
+  },
+  {
+    "date": "2025-10-19",
+    "slot": "closing",
+    "hymn_id": 130,
+    "name": "Be Thou Humble"
+  },
+  {
+    "date": "2025-10-26",
+    "slot": "opening",
+    "hymn_id": 98,
+    "name": "I Need Thee Every Hour"
+  },
+  {
+    "date": "2025-10-26",
+    "slot": "sacrament",
+    "hymn_id": 172,
+    "name": "In Humility, Our Savior"
+  },
+  {
+    "date": "2025-10-26",
+    "slot": "intermediate",
+    "hymn_id": 144,
+    "name": "Secret Prayer"
+  },
+  {
+    "date": "2025-10-26",
+    "slot": "closing",
+    "hymn_id": 270,
+    "name": "I'll Go Where You Want Me to Go"
+  },
+  {
+    "date": "2025-11-02",
+    "slot": "opening",
+    "hymn_id": 1003,
+    "name": "It Is Well With My Soul"
+  },
+  {
+    "date": "2025-11-02",
+    "slot": "sacrament",
+    "hymn_id": 184,
+    "name": "Upon the Cross of Calvary"
+  },
+  {
+    "date": "2025-11-02",
+    "slot": "closing",
+    "hymn_id": 134,
+    "name": "I Believe in Christ"
+  },
+  {
+    "date": "2025-11-09",
+    "slot": "opening",
+    "hymn_id": 125,
+    "name": "How Gentle God's Commands"
+  },
+  {
+    "date": "2025-11-09",
+    "slot": "sacrament",
+    "hymn_id": 176,
+    "name": "Tis Sweet to Sing the Matchless Love (MEREDITH)"
+  },
+  {
+    "date": "2025-11-09",
+    "slot": "closing",
+    "hymn_id": 301,
+    "name": "I Am a Child of God"
+  },
+  {
+    "date": "2025-11-23",
+    "slot": "opening",
+    "hymn_id": 62,
+    "name": "All Creatures of Our God and King"
+  },
+  {
+    "date": "2025-11-23",
+    "slot": "sacrament",
+    "hymn_id": 185,
+    "name": "Reverently and Meekly Now"
+  },
+  {
+    "date": "2025-11-23",
+    "slot": "intermediate",
+    "hymn_id": 93,
+    "name": "Prayer of Thanksgiving"
+  },
+  {
+    "date": "2025-11-23",
+    "slot": "closing",
+    "hymn_id": 7,
+    "name": "Israel, Israel, God Is Calling"
+  },
+  {
+    "date": "2025-11-30",
+    "slot": "opening",
+    "hymn_id": 92,
+    "name": "For the Beauty of the Earth"
+  },
+  {
+    "date": "2025-11-30",
+    "slot": "sacrament",
+    "hymn_id": 195,
+    "name": "How Great the Wisdom and the Love"
+  },
+  {
+    "date": "2025-11-30",
+    "slot": "intermediate",
+    "hymn_id": 94,
+    "name": "Come, Ye Thankful People"
+  },
+  {
+    "date": "2025-11-30",
+    "slot": "closing",
+    "hymn_id": 66,
+    "name": "Rejoice, the Lord Is King!"
+  },
+  {
+    "date": "2025-12-07",
+    "slot": "opening",
+    "hymn_id": 201,
+    "name": "Joy to the World"
+  },
+  {
+    "date": "2025-12-07",
+    "slot": "sacrament",
+    "hymn_id": 191,
+    "name": "Behold the Great Redeemer Die"
+  },
+  {
+    "date": "2025-12-07",
+    "slot": "closing",
+    "hymn_id": 1027,
+    "name": "Welcome Home"
+  },
+  {
+    "date": "2025-12-14",
+    "slot": "opening",
+    "hymn_id": 1208,
+    "name": "Go Tell It on the Mountain"
+  },
+  {
+    "date": "2025-12-14",
+    "slot": "sacrament",
+    "hymn_id": 177,
+    "name": "Tis Sweet to Sing the Matchless Love (HANCOCK)"
+  },
+  {
+    "date": "2025-12-14",
+    "slot": "closing",
+    "hymn_id": 209,
+    "name": "Hark! The Herald Angels Sing"
+  },
+  {
+    "date": "2025-12-21",
+    "slot": "opening",
+    "hymn_id": 207,
+    "name": "It Came upon the Midnight Clear"
+  },
+  {
+    "date": "2025-12-21",
+    "slot": "sacrament",
+    "hymn_id": 196,
+    "name": "Jesus, Once of Humble Birth"
+  },
+  {
+    "date": "2025-12-21",
+    "slot": "intermediate",
+    "hymn_id": 203,
+    "name": "Angels We Have Heard on High"
+  },
+  {
+    "date": "2025-12-21",
+    "slot": "closing",
+    "hymn_id": 204,
+    "name": "Silent Night"
+  },
+  {
+    "date": "2025-12-28",
+    "slot": "opening",
+    "hymn_id": 217,
+    "name": "Come, Let Us Anew"
+  },
+  {
+    "date": "2025-12-28",
+    "slot": "sacrament",
+    "hymn_id": 194,
+    "name": "There Is a Green Hill Far Away"
+  },
+  {
+    "date": "2025-12-28",
+    "slot": "intermediate",
+    "hymn_id": 215,
+    "name": "Ring Out, Wild Bells"
+  },
+  {
+    "date": "2025-12-28",
+    "slot": "closing",
+    "hymn_id": 6,
+    "name": "Redeemer of Israel"
+  },
+  {
+    "date": "2026-01-04",
+    "slot": "opening",
+    "hymn_id": 304,
+    "name": "Teach Me to Walk in the Light"
+  },
+  {
+    "date": "2026-01-04",
+    "slot": "sacrament",
+    "hymn_id": 193,
+    "name": "I Stand All Amazed"
+  },
+  {
+    "date": "2026-01-04",
+    "slot": "closing",
+    "hymn_id": 124,
+    "name": "Be Still, My Soul"
+  },
+  {
+    "date": "2026-01-11",
+    "slot": "opening",
+    "hymn_id": 129,
+    "name": "Where Can I Turn for Peace?"
+  },
+  {
+    "date": "2026-01-11",
+    "slot": "sacrament",
+    "hymn_id": 192,
+    "name": "He Died! The Great Redeemer Died"
+  },
+  {
+    "date": "2026-01-11",
+    "slot": "intermediate",
+    "hymn_id": 3,
+    "name": "Now Let Us Rejoice"
+  },
+  {
+    "date": "2026-01-11",
+    "slot": "closing",
+    "hymn_id": 111,
+    "name": "Rock of Ages"
+  },
+  {
+    "date": "2026-01-17",
+    "slot": "opening",
+    "hymn_id": 280,
+    "name": "Welcome, Welcome, Sabbath Morning"
+  },
+  {
+    "date": "2026-01-17",
+    "slot": "sacrament",
+    "hymn_id": 187,
+    "name": "God Loved Us, So He Sent His Son"
+  },
+  {
+    "date": "2026-01-17",
+    "slot": "intermediate",
+    "hymn_id": 243,
+    "name": "Let Us All Press On"
+  },
+  {
+    "date": "2026-01-17",
+    "slot": "closing",
+    "hymn_id": 165,
+    "name": "Abide with Me, 'Tis Eventide"
+  },
+  {
+    "date": "2026-01-25",
+    "slot": "opening",
+    "hymn_id": 131,
+    "name": "More Holiness Give Me"
+  },
+  {
+    "date": "2026-01-25",
+    "slot": "sacrament",
+    "hymn_id": 1016,
+    "name": "Behold the Wounds in Jesus' Hands"
+  },
+  {
+    "date": "2026-01-25",
+    "slot": "intermediate",
+    "hymn_id": 249,
+    "name": "Called to Serve"
+  },
+  {
+    "date": "2026-01-25",
+    "slot": "closing",
+    "hymn_id": 298,
+    "name": "Home Can Be a Heaven on Earth"
+  },
+  {
+    "date": "2026-02-01",
+    "slot": "opening",
+    "hymn_id": 138,
+    "name": "Bless Our Fast, We Pray"
+  },
+  {
+    "date": "2026-02-01",
+    "slot": "sacrament",
+    "hymn_id": 180,
+    "name": "Father in Heaven, We Do Believe"
+  },
+  {
+    "date": "2026-02-01",
+    "slot": "closing",
+    "hymn_id": 136,
+    "name": "I Know That My Redeemer Lives"
+  },
+  {
+    "date": "2026-02-08",
+    "slot": "opening",
+    "hymn_id": 117,
+    "name": "Come unto Jesus"
+  },
+  {
+    "date": "2026-02-08",
+    "slot": "sacrament",
+    "hymn_id": 183,
+    "name": "In Rememberance of Thy Suffering"
+  },
+  {
+    "date": "2026-02-08",
+    "slot": "closing",
+    "hymn_id": 19,
+    "name": "We Thank Thee, O God, for a Prophet"
+  },
+  {
+    "date": "2026-02-15",
+    "slot": "opening",
+    "hymn_id": 30,
+    "name": "Come, Come, Ye Saints"
+  },
+  {
+    "date": "2026-02-15",
+    "slot": "sacrament",
+    "hymn_id": 179,
+    "name": "Again, Our Dear Redeeming Lord"
+  },
+  {
+    "date": "2026-02-15",
+    "slot": "intermediate",
+    "hymn_id": 227,
+    "name": "There Is Sunshine in My Soul Today"
+  },
+  {
+    "date": "2026-02-15",
+    "slot": "closing",
+    "hymn_id": 294,
+    "name": "Love at Home"
+  },
+  {
+    "date": "2026-02-22",
+    "slot": "opening",
+    "hymn_id": 97,
+    "name": "Lead, Kindly Light"
+  },
+  {
+    "date": "2026-02-22",
+    "slot": "sacrament",
+    "hymn_id": 174,
+    "name": "While of These Emblems We Partake (AEOLIAN)"
+  },
+  {
+    "date": "2026-02-22",
+    "slot": "intermediate",
+    "hymn_id": 85,
+    "name": "How Firm a Foundation"
+  },
+  {
+    "date": "2026-02-22",
+    "slot": "closing",
+    "hymn_id": 147,
+    "name": "Sweet Is the Work"
+  },
+  {
+    "date": "2026-03-01",
+    "slot": "opening",
+    "hymn_id": 239,
+    "name": "Choose the Right"
+  },
+  {
+    "date": "2026-03-01",
+    "slot": "sacrament",
+    "hymn_id": 1008,
+    "name": "Bread of Life, Living Water"
+  },
+  {
+    "date": "2026-03-01",
+    "slot": "closing",
+    "hymn_id": 153,
+    "name": "Lord, We Ask Thee Ere We Part"
+  },
+  {
+    "date": "2026-03-08",
+    "slot": "opening",
+    "hymn_id": 5,
+    "name": "High on the Mountain Top"
+  },
+  {
+    "date": "2026-03-08",
+    "slot": "sacrament",
+    "hymn_id": 146,
+    "name": "Gently Raise the Sacred Strain"
+  },
+  {
+    "date": "2026-03-08",
+    "slot": "intermediate",
+    "hymn_id": 1014,
+    "name": "My Shepherd Will Supply My Need"
+  },
+  {
+    "date": "2026-03-08",
+    "slot": "closing",
+    "hymn_id": 135,
+    "name": "My Redeemer Lives"
+  },
+  {
+    "date": "2026-03-15",
+    "slot": "opening",
+    "hymn_id": 292,
+    "name": "O My Father"
+  },
+  {
+    "date": "2026-03-15",
+    "slot": "sacrament",
+    "hymn_id": 186,
+    "name": "Again We Meet around the Board"
+  },
+  {
+    "date": "2026-03-15",
+    "slot": "intermediate",
+    "hymn_id": 1010,
+    "name": "Amazing Grace"
+  },
+  {
+    "date": "2026-03-15",
+    "slot": "closing",
+    "hymn_id": 78,
+    "name": "God of Our Fathers, Whose Almighty Hand"
+  },
+  {
+    "date": "2026-03-22",
+    "slot": "opening",
+    "hymn_id": 1201,
+    "name": "Hail the Day that Sees Him Rise"
+  },
+  {
+    "date": "2026-03-22",
+    "slot": "sacrament",
+    "hymn_id": 191,
+    "name": "Behold the Great Redeemer Die"
+  },
+  {
+    "date": "2026-03-22",
+    "slot": "intermediate",
+    "hymn_id": 1206,
+    "name": "Were You There?"
+  },
+  {
+    "date": "2026-03-22",
+    "slot": "closing",
+    "hymn_id": 200,
+    "name": "Christ the Lord Is Risen Today"
+  },
+  {
+    "date": "2026-03-29",
+    "slot": "opening",
+    "hymn_id": 69,
+    "name": "All Glory, laud, and Honor"
+  },
+  {
+    "date": "2026-03-29",
+    "slot": "sacrament",
+    "hymn_id": 192,
+    "name": "He Died! The Great Redeemer Died"
+  },
+  {
+    "date": "2026-03-29",
+    "slot": "closing",
+    "hymn_id": 199,
+    "name": "He Is Risen"
+  },
+  {
+    "date": "2026-04-12",
+    "slot": "opening",
+    "hymn_id": 116,
+    "name": "Come, Follow Me"
+  },
+  {
+    "date": "2026-04-12",
+    "slot": "sacrament",
+    "hymn_id": 190,
+    "name": "In Memory of the Crucified"
+  },
+  {
+    "date": "2026-04-12",
+    "slot": "closing",
+    "hymn_id": 308,
+    "name": "Love One Another"
+  },
+  {
+    "date": "2026-04-19",
+    "slot": "opening",
+    "hymn_id": 26,
+    "name": "Joseph Smith's First Prayer"
+  },
+  {
+    "date": "2026-04-19",
+    "slot": "sacrament",
+    "hymn_id": 170,
+    "name": "God, Our Father, Hear Us Pray"
+  },
+  {
+    "date": "2026-04-19",
+    "slot": "intermediate",
+    "hymn_id": 66,
+    "name": "Rejoice, the Lord Is King!"
+  },
+  {
+    "date": "2026-04-19",
+    "slot": "closing",
+    "hymn_id": 113,
+    "name": "Our Savior's Love"
+  },
+  {
+    "date": "2026-04-26",
+    "slot": "opening",
+    "hymn_id": 140,
+    "name": "Did you Think to Pray?"
+  },
+  {
+    "date": "2026-04-26",
+    "slot": "sacrament",
+    "hymn_id": 182,
+    "name": "We'll Sing All Hail to Jesus' Name"
+  },
+  {
+    "date": "2026-04-26",
+    "slot": "intermediate",
+    "hymn_id": 1001,
+    "name": "Come, Thou Fount of Every Blessing"
+  },
+  {
+    "date": "2026-04-26",
+    "slot": "closing",
+    "hymn_id": 270,
+    "name": "I'll Go Where You Want Me to Go"
+  },
+  {
+    "date": "2026-05-03",
+    "slot": "opening",
+    "hymn_id": 52,
+    "name": "The Day Dawn Is Breaking"
+  },
+  {
+    "date": "2026-05-03",
+    "slot": "sacrament",
+    "hymn_id": 171,
+    "name": "With Humble Heart"
+  },
+  {
+    "date": "2026-05-03",
+    "slot": "closing",
+    "hymn_id": 106,
+    "name": "God Speed the Right"
+  }
+]
