@@ -199,12 +199,13 @@ def copy_sheet(date_str: str):
 
     lines = []
     for slot in SLOTS:
-        if slot == "intermediate" and slot not in picks:
+        if slot not in picks:
+            if slot == "intermediate":
+                lines.append("~")
             continue
-        if slot in picks:
-            hid = picks[slot]
-            name = hymn_map[hid].name if hid in hymn_map else str(hid)
-            lines.append(f"{hid} - {name}")
+        hid = picks[slot]
+        name = hymn_map[hid].name if hid in hymn_map else str(hid)
+        lines.append(f"{hid} - {name}")
 
     return "\n".join(lines), 200, {"Content-Type": "text/plain; charset=utf-8"}
 

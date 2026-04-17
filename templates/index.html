@@ -174,13 +174,11 @@
   }
 
   function copyForSheet() {
-    const order = state.skipIntermediate
-      ? ['opening', 'sacrament', 'closing']
-      : ['opening', 'sacrament', 'intermediate', 'closing'];
-    const lines = order
-      .map(s => state.picks[s])
-      .filter(Boolean)
-      .map(p => p.id + ' - ' + p.name);
+    const lines = ['opening', 'sacrament', 'intermediate', 'closing'].map(s => {
+      if (s === 'intermediate' && state.skipIntermediate) return '~';
+      const pick = state.picks[s];
+      return pick ? pick.id + ' - ' + pick.name : null;
+    }).filter(v => v !== null);
     const text = lines.join('\n');
     navigator.clipboard.writeText(text).then(() => {
       const btn = document.getElementById('copy-btn');
@@ -194,6 +192,9 @@
       if (id && HYMN_MAP[id]) {
         state.picks[slot] = { id, name: HYMN_MAP[id].name };
       }
+    }
+    if (Object.keys(INIT_PICKS).length > 0 && !('intermediate' in INIT_PICKS)) {
+      state.skipIntermediate = true;
     }
     render();
   });
