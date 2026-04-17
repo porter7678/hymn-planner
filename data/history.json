@@ -3628,5 +3628,29 @@
     "slot": "closing",
     "hymn_id": 106,
     "name": "God Speed the Right"
+  },
+  {
+    "date": "2026-05-10",
+    "slot": "opening",
+    "hymn_id": 274,
+    "name": "The Iron Rod"
+  },
+  {
+    "date": "2026-05-10",
+    "slot": "sacrament",
+    "hymn_id": 177,
+    "name": "Tis Sweet to Sing the Matchless Love (HANCOCK)"
+  },
+  {
+    "date": "2026-05-10",
+    "slot": "intermediate",
+    "hymn_id": 100,
+    "name": "Nearer, My God, To Thee"
+  },
+  {
+    "date": "2026-05-10",
+    "slot": "closing",
+    "hymn_id": 1003,
+    "name": "It Is Well With My Soul"
   }
 ]
