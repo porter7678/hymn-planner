@@ -17,11 +17,11 @@ Each milestone should end with a git commit and a quick manual sanity check befo
 
 ## Milestone 3: Scoring
 
-- [ ] `scoring.py`: pure function that takes `(hymns, history, reference_sunday, pool, config)` and returns a ranked list with intermediate score components. No I/O, no Flask.
-- [ ] Apply all filters from SPEC section 5.2 (flagged, holiday, pool, popularity floor, cooldown, and excluded-ids for within-Sunday duplicates).
-- [ ] Implement scoring formula from SPEC section 5.3 with the default config values.
-- [ ] Unit tests in `tests/test_scoring.py` covering all cases listed in SPEC section 10.
-- [ ] Sanity check: run the scorer on the real imported history and eyeball the top 20 for `general` pool for the next upcoming Sunday — do the results look reasonable?
+- [x] `scoring.py`: pure function that takes `(hymns, history, reference_sunday, pool, config)` and returns a ranked list with intermediate score components. No I/O, no Flask.
+- [x] Apply all filters from SPEC section 5.2 (flagged, holiday, pool, popularity floor, cooldown, and excluded-ids for within-Sunday duplicates).
+- [x] Implement scoring formula from SPEC section 5.3 with the default config values.
+- [x] Unit tests in `tests/test_scoring.py` covering all cases listed in SPEC section 10.
+- [x] Sanity check: run the scorer on the real imported history and eyeball the top 20 for `general` pool for the next upcoming Sunday — do the results look reasonable?
 
 ## Milestone 4: Holidays module
 
