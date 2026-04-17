@@ -1,1 +1,72 @@
-<!-- Planning view. Implemented in Milestone 6. -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Hymn Planner — {{ ref.strftime('%A, %B %-d, %Y') }}</title>
+</head>
+<body>
+  <nav>
+    <a href="{{ url_for('plan_view', date_str=prev_sunday.isoformat()) }}">◀ prev</a>
+    &nbsp; <strong>{{ ref.strftime('%A, %B %-d, %Y') }}</strong> &nbsp;
+    <a href="{{ url_for('plan_view', date_str=next_sunday.isoformat()) }}">next ▶</a>
+  </nav>
+
+  {% if commit_warning %}
+    <p style="color:orange">⚠ {{ commit_warning }}</p>
+  {% endif %}
+
+  {% if fast_sunday %}
+    <p>⚠ First Sunday of the month — Fast Sunday</p>
+  {% endif %}
+  {% if holiday %}
+    <p>⚠ Holiday: {{ holiday }}</p>
+  {% endif %}
+
+  <div style="display:flex; gap:2em">
+    <div>
+      <h3>Sacrament</h3>
+      <ol>
+        {% for sh in sacrament_ranked %}
+        <li>
+          {{ sh.hymn.id }} — {{ sh.hymn.name }}
+          ({% if sh.weeks_since is not none %}{{ sh.weeks_since }} wks{% else %}never{% endif %},
+          {{ sh.hymn.length }})
+        </li>
+        {% endfor %}
+      </ol>
+    </div>
+    <div>
+      <h3>General</h3>
+      <ol>
+        {% for sh in general_ranked %}
+        <li>
+          {{ sh.hymn.id }} — {{ sh.hymn.name }}
+          ({% if sh.weeks_since is not none %}{{ sh.weeks_since }} wks{% else %}never{% endif %},
+          {{ sh.hymn.length }})
+        </li>
+        {% endfor %}
+      </ol>
+    </div>
+  </div>
+
+  <h3>Current picks</h3>
+  <form method="post" action="{{ url_for('confirm', date_str=ref.isoformat()) }}">
+    {% for slot in slots %}
+    <div>
+      <label>{{ slot|title }}:</label>
+      {% set hid = current_picks.get(slot) %}
+      {% if hid %}
+        {{ hid }} — {{ hymn_map[hid].name }}
+      {% else %}
+        (none)
+      {% endif %}
+      <input type="hidden" name="{{ slot }}" value="{{ hid or '' }}">
+    </div>
+    {% endfor %}
+    <br>
+    <button type="submit">Confirm &amp; commit</button>
+  </form>
+
+  <p><a href="{{ url_for('copy_sheet', date_str=ref.isoformat()) }}" target="_blank">Copy for sheet</a></p>
+</body>
+</html>
