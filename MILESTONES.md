@@ -25,19 +25,19 @@ Each milestone should end with a git commit and a quick manual sanity check befo
 
 ## Milestone 4: Holidays module
 
-- [ ] `holidays.py`: function `is_fast_sunday(date)` — true if date is the first Sunday of its month.
-- [ ] `holidays.py`: function `upcoming_holiday(date, window_days=7)` → holiday name or None. Covers Easter, Christmas, Mother's Day, Father's Day, Thanksgiving, 4th of July, New Year's Day.
-- [ ] Unit tests in `tests/test_holidays.py`.
+- [x] `holidays.py`: function `is_fast_sunday(date)` — true if date is the first Sunday of its month.
+- [x] `holidays.py`: function `upcoming_holiday(date, window_days=7)` → holiday name or None. Covers Easter, Christmas, Mother's Day, Father's Day, Thanksgiving, 4th of July, New Year's Day.
+- [x] Unit tests in `tests/test_holidays.py`.
 
 ## Milestone 5: Backend routes
 
-- [ ] `app.py`: Flask app with routes for:
+- [x] `app.py`: Flask app with routes for:
   - `GET /` → default planning view (next un-planned Sunday)
   - `GET /plan/<date>` → planning view for a specific Sunday
   - `POST /confirm/<date>` → save picks to history and commit
   - `GET /copy/<date>` → returns the formatted copy-for-sheet text
-- [ ] Routes should return HTML (Jinja) for page loads and HTML fragments (htmx) or JSON for in-page interactions. Pick one; don't mix.
-- [ ] Wire up the scoring call, including the "exclude today's picks" logic for within-session de-duplication.
+- [x] Routes should return HTML (Jinja) for page loads and HTML fragments (htmx) or JSON for in-page interactions. Pick one; don't mix.
+- [x] Wire up the scoring call, including the "exclude today's picks" logic for within-session de-duplication.
 
 ## Milestone 6: Frontend
 
