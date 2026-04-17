@@ -2,71 +2,186 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Hymn Planner — {{ ref.strftime('%A, %B %-d, %Y') }}</title>
+  <title>Hymn Planner — {{ ref.strftime('%B %-d, %Y') }}</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  <script>
+    const HYMN_MAP = {
+      {% for id, h in hymn_map.items() %}
+        {{ id }}: { name: {{ h.name | tojson }}, length: {{ h.length | tojson }} },
+      {% endfor %}
+    };
+    const INIT_PICKS = {{ current_picks | tojson }};
+    const REF_DATE = {{ ref.isoformat() | tojson }};
+  </script>
 </head>
 <body>
-  <nav>
-    <a href="{{ url_for('plan_view', date_str=prev_sunday.isoformat()) }}">◀ prev</a>
-    &nbsp; <strong>{{ ref.strftime('%A, %B %-d, %Y') }}</strong> &nbsp;
-    <a href="{{ url_for('plan_view', date_str=next_sunday.isoformat()) }}">next ▶</a>
-  </nav>
 
-  {% if commit_warning %}
-    <p style="color:orange">⚠ {{ commit_warning }}</p>
-  {% endif %}
+<nav>
+  <a href="{{ url_for('plan_view', date_str=prev_sunday.isoformat()) }}">◀ prev</a>
+  <strong>{{ ref.strftime('%A, %B %-d, %Y') }}</strong>
+  <a href="{{ url_for('plan_view', date_str=next_sunday.isoformat()) }}">next ▶</a>
+  <input type="date" id="date-picker" value="{{ ref.isoformat() }}"
+    onchange="if(this.value) window.location='/plan/'+this.value">
+</nav>
 
-  {% if fast_sunday %}
-    <p>⚠ First Sunday of the month — Fast Sunday</p>
-  {% endif %}
-  {% if holiday %}
-    <p>⚠ Holiday: {{ holiday }}</p>
-  {% endif %}
+{% if commit_warning %}
+  <div class="banner banner-warning">⚠ {{ commit_warning }}</div>
+{% endif %}
+{% if fast_sunday %}
+  <div class="banner banner-fast">⚠ First Sunday of the month — Fast Sunday</div>
+{% endif %}
+{% if holiday %}
+  <div class="banner banner-holiday">🎉 Holiday week: {{ holiday }}</div>
+{% endif %}
 
-  <div style="display:flex; gap:2em">
-    <div>
-      <h3>Sacrament</h3>
-      <ol>
-        {% for sh in sacrament_ranked %}
-        <li>
-          {{ sh.hymn.id }} — {{ sh.hymn.name }}
-          ({% if sh.weeks_since is not none %}{{ sh.weeks_since }} wks{% else %}never{% endif %},
-          {{ sh.hymn.length }})
-        </li>
-        {% endfor %}
-      </ol>
-    </div>
-    <div>
-      <h3>General</h3>
-      <ol>
-        {% for sh in general_ranked %}
-        <li>
-          {{ sh.hymn.id }} — {{ sh.hymn.name }}
-          ({% if sh.weeks_since is not none %}{{ sh.weeks_since }} wks{% else %}never{% endif %},
-          {{ sh.hymn.length }})
-        </li>
-        {% endfor %}
-      </ol>
+<div class="picks-area">
+  <h3>Your picks</h3>
+
+  <div class="slot-row" id="row-opening">
+    <span class="slot-label">Opening:</span>
+    <span class="slot-hymn empty" id="label-opening">(none)</span>
+    <button class="swap-btn" id="swap-opening" onclick="swapSlot('opening')" style="display:none">swap</button>
+  </div>
+
+  <div class="slot-row" id="row-sacrament">
+    <span class="slot-label">Sacrament:</span>
+    <span class="slot-hymn empty" id="label-sacrament">(none)</span>
+    <button class="swap-btn" id="swap-sacrament" onclick="swapSlot('sacrament')" style="display:none">swap</button>
+  </div>
+
+  <div class="slot-row" id="row-intermediate">
+    <label class="skip-label">
+      <input type="checkbox" id="skip-intermediate" onchange="toggleSkip(this.checked)"> skip
+    </label>
+    <div id="intermediate-content" class="intermediate-content">
+      <span class="slot-label">Intermediate:</span>
+      <span class="slot-hymn empty" id="label-intermediate">(none)</span>
+      <button class="swap-btn" id="swap-intermediate" onclick="swapSlot('intermediate')" style="display:none">swap</button>
     </div>
   </div>
 
-  <h3>Current picks</h3>
-  <form method="post" action="{{ url_for('confirm', date_str=ref.isoformat()) }}">
-    {% for slot in slots %}
-    <div>
-      <label>{{ slot|title }}:</label>
-      {% set hid = current_picks.get(slot) %}
-      {% if hid %}
-        {{ hid }} — {{ hymn_map[hid].name }}
-      {% else %}
-        (none)
-      {% endif %}
-      <input type="hidden" name="{{ slot }}" value="{{ hid or '' }}">
+  <div class="slot-row" id="row-closing">
+    <span class="slot-label">Closing:</span>
+    <span class="slot-hymn empty" id="label-closing">(none)</span>
+    <button class="swap-btn" id="swap-closing" onclick="swapSlot('closing')" style="display:none">swap</button>
+  </div>
+</div>
+
+<form id="confirm-form" method="post" action="{{ url_for('confirm', date_str=ref.isoformat()) }}">
+  <input type="hidden" name="opening"      id="input-opening"      value="">
+  <input type="hidden" name="sacrament"    id="input-sacrament"    value="">
+  <input type="hidden" name="intermediate" id="input-intermediate" value="">
+  <input type="hidden" name="closing"      id="input-closing"      value="">
+  <div class="actions">
+    <button type="submit" class="confirm-btn">Confirm &amp; commit</button>
+    <a href="{{ url_for('copy_sheet', date_str=ref.isoformat()) }}" target="_blank">Copy for sheet</a>
+  </div>
+</form>
+
+<div class="rankings">
+  <div class="ranking-col">
+    <h3>Sacrament</h3>
+    {% for sh in sacrament_ranked %}
+    <div class="hymn-row" data-id="{{ sh.hymn.id }}"
+         onclick="pickHymn({{ sh.hymn.id }}, 'sacrament')">
+      <span class="hymn-name">{{ sh.hymn.id }} — {{ sh.hymn.name }}</span>
+      <span class="hymn-meta">({% if sh.weeks_since is not none %}{{ sh.weeks_since }}w{% else %}never{% endif %}, {{ sh.hymn.length }}, pop {{ sh.adj_popularity }})</span>
     </div>
     {% endfor %}
-    <br>
-    <button type="submit">Confirm &amp; commit</button>
-  </form>
+  </div>
+  <div class="ranking-col">
+    <h3>General</h3>
+    {% for sh in general_ranked %}
+    <div class="hymn-row" data-id="{{ sh.hymn.id }}"
+         onclick="pickHymn({{ sh.hymn.id }}, 'general')">
+      <span class="hymn-name">{{ sh.hymn.id }} — {{ sh.hymn.name }}</span>
+      <span class="hymn-meta">({% if sh.weeks_since is not none %}{{ sh.weeks_since }}w{% else %}never{% endif %}, {{ sh.hymn.length }}, pop {{ sh.adj_popularity }})</span>
+    </div>
+    {% endfor %}
+  </div>
+</div>
 
-  <p><a href="{{ url_for('copy_sheet', date_str=ref.isoformat()) }}" target="_blank">Copy for sheet</a></p>
+<script>
+  const state = {
+    picks: { opening: null, sacrament: null, intermediate: null, closing: null },
+    skipIntermediate: false
+  };
+
+  const SLOTS = ['opening', 'sacrament', 'intermediate', 'closing'];
+
+  function render() {
+    const hiddenIds = new Set(
+      Object.values(state.picks).filter(Boolean).map(p => p.id)
+    );
+
+    document.querySelectorAll('.hymn-row').forEach(row => {
+      row.style.display = hiddenIds.has(+row.dataset.id) ? 'none' : '';
+    });
+
+    for (const slot of SLOTS) {
+      const pick = state.picks[slot];
+      const label = document.getElementById('label-' + slot);
+      const swapBtn = document.getElementById('swap-' + slot);
+      const input = document.getElementById('input-' + slot);
+
+      if (pick) {
+        label.textContent = pick.id + ' — ' + pick.name;
+        label.classList.remove('empty');
+      } else {
+        label.textContent = '(none)';
+        label.classList.add('empty');
+      }
+      swapBtn.style.display = pick ? '' : 'none';
+      input.value = pick ? pick.id : '';
+    }
+
+    const intContent = document.getElementById('intermediate-content');
+    document.getElementById('skip-intermediate').checked = state.skipIntermediate;
+    if (state.skipIntermediate) {
+      intContent.classList.add('slot-disabled');
+    } else {
+      intContent.classList.remove('slot-disabled');
+    }
+  }
+
+  function pickHymn(id, pool) {
+    const name = HYMN_MAP[id] ? HYMN_MAP[id].name : String(id);
+    if (pool === 'sacrament') {
+      if (state.picks.sacrament) return;
+      state.picks.sacrament = { id, name };
+    } else {
+      const order = state.skipIntermediate
+        ? ['opening', 'closing']
+        : ['opening', 'intermediate', 'closing'];
+      const target = order.find(s => !state.picks[s]);
+      if (!target) return;
+      state.picks[target] = { id, name };
+    }
+    render();
+  }
+
+  function swapSlot(slot) {
+    state.picks[slot] = null;
+    render();
+  }
+
+  function toggleSkip(checked) {
+    state.skipIntermediate = checked;
+    if (checked && state.picks.intermediate) {
+      state.picks.intermediate = null;
+    }
+    render();
+  }
+
+  document.addEventListener('DOMContentLoaded', () => {
+    for (const [slot, id] of Object.entries(INIT_PICKS)) {
+      if (id && HYMN_MAP[id]) {
+        state.picks[slot] = { id, name: HYMN_MAP[id].name };
+      }
+    }
+    render();
+  });
+</script>
+
 </body>
 </html>

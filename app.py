@@ -110,10 +110,10 @@ def plan_view(date_str: str):
 
     sacrament_ranked = scoremod.score_hymns(
         hymns, history, ref, "sacrament", excluded_ids=excluded_ids
-    )[:20]
+    )[:15]
     general_ranked = scoremod.score_hymns(
         hymns, history, ref, "general", excluded_ids=excluded_ids
-    )[:20]
+    )[:15]
 
     fast_sunday = holmod.is_fast_sunday(ref)
     holiday = holmod.upcoming_holiday(ref)

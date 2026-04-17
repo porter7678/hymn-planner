@@ -41,13 +41,13 @@ Each milestone should end with a git commit and a quick manual sanity check befo
 
 ## Milestone 6: Frontend
 
-- [ ] `templates/index.html`: layout per SPEC section 6.2 — two ranking columns, current picks area, banner slot, navigation.
-- [ ] Picking a hymn moves it into the next open slot and removes it from the visible ranking.
-- [ ] "Swap" action returns a picked hymn to the pool.
-- [ ] Skip-intermediate toggle disables the intermediate slot.
-- [ ] Prev/next Sunday navigation + date picker.
-- [ ] Display `weeks_since` and `length` next to each ranked hymn.
-- [ ] When navigating to a Sunday with existing history, pre-populate the current picks.
+- [x] `templates/index.html`: layout per SPEC section 6.2 — two ranking columns, current picks area, banner slot, navigation.
+- [x] Picking a hymn moves it into the next open slot and removes it from the visible ranking.
+- [x] "Swap" action returns a picked hymn to the pool.
+- [x] Skip-intermediate toggle disables the intermediate slot.
+- [x] Prev/next Sunday navigation + date picker.
+- [x] Display `weeks_since` and `length` next to each ranked hymn.
+- [x] When navigating to a Sunday with existing history, pre-populate the current picks.
 
 ## Milestone 7: Confirm + git
 
