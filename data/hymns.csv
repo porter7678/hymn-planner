@@ -1,0 +1,402 @@
+id,name,count,length,popularity,popularity_adjustment,flagged,is_sacrament,is_general,is_holiday
+1,The Morning Breaks,100,3:55,5,2,,0,1,0
+2,The Spirit of God,374,5:55,9,,1,0,1,0
+3,Now Let Us Rejoice,453,3:29,10,,,0,1,0
+4,Truth Eternal,81,2:03,5,,,0,1,0
+5,High on the Mountain Top,443,2:33,10,,,0,1,0
+6,Redeemer of Israel,358,2:45,9,,,0,1,0
+7,"Israel, Israel, God Is Calling",244,3:55,8,,,0,1,0
+8,Awake and Arise,48,2:33,4,,,0,1,0
+9,"Come, Rejoice",126,2:34,6,,,0,1,0
+10,"Come, Sing to the Lord",144,2:18,6,,,0,1,0
+11,What Was Witnessed in the Heavens?,25,2:20,3,,,0,1,0
+12,Twas Witnessed in the Morning Sky,14,,2,,,0,1,0
+13,An Angel from on High,68,2:45,5,,,0,1,0
+14,Sweet Is the Peace the Gospel Brings,151,1:42,6,,,0,1,0
+15,I Saw a Mighty Angel Fly,29,,3,,,0,1,0
+16,What Glorious Scenes Mine Eyes Behold,3,3:43,1,,,0,1,0
+17,"Awake, Ye Saints of God, Awake!",34,3:11,3,,,0,1,0
+18,The Voice of God Again Is Heard,20,2:06,3,,,0,1,0
+19,"We Thank Thee, O God, for a Prophet",480,2:47,10,,,0,1,0
+20,"God of Power, God of Right",55,1:57,4,,,0,1,0
+21,"Come, Listen to a Prophet's Voice",206,3:13,7,,,0,1,0
+22,We Listen to a Prophet's Voice,75,2:57,5,,,0,1,0
+23,We Ever Pray for Thee,63,3:53,4,,1,0,1,0
+24,God Bless Our Prophet Dear,44,2:10,4,,,0,1,0
+25,Now We'll Sing with One Accord,86,3:28,5,,,0,1,0
+26,Joseph Smith's First Prayer,269,3:37,8,,,0,1,0
+27,Praise to the Man,304,3:37,9,,1,0,1,0
+28,"Saints, Behold How Great Jehovah",23,1:40,3,,,0,1,0
+29,A Poor Wayfaring Man of Grief,143,2:55,6,,,0,1,0
+30,"Come, Come, Ye Saints",370,3:53,9,,,0,1,0
+31,"O God, Our Help in Ages Past",50,2:31,4,,,0,1,0
+32,The Happy Day at Last Has Come,12,2:29,2,,,0,1,0
+33,Our Mountain Home So Dear,27,3:01,3,,1,0,1,0
+34,O Ye Mountains High,92,4:11,5,,,0,1,0
+35,For the Strength of the Hills,104,3:29,5,,,0,1,0
+36,"They, the Builders of the Nation",166,2:53,7,,1,0,1,0
+37,"The Wintry Day, Descending to Its Close",18,5:17,2,,1,0,1,0
+38,"Come, All Ye Saints of Zion",41,3:30,4,,,0,1,0
+39,O Saints of Zion,29,2:31,3,,,0,1,0
+40,"Arise, O Glorious Zion",18,3:21,2,,,0,1,0
+41,Let Zion in Her Beauty Rise,96,2:28,5,,,0,1,0
+42,Hail to the Brightness of Zion's Glad Morning!,28,2:38,3,,,0,1,0
+43,Zion Stands with Hills Surrounded,11,2:56,2,,1,0,1,0
+44,"Beautiful Zion, Built Above",106,3:58,5,,,0,1,0
+45,Lead Me into Life Eternal,160,1:35,7,-1,,0,1,0
+46,Glorious Things of Thee Are Spoken,20,2:58,3,,,0,1,0
+47,We Will Sing of Zion,34,2:05,3,,,0,1,0
+48,Glorious Things Are Sung of Zion,9,3:24,2,,,0,1,0
+49,Adam-andi-Ahman,29,2:26,3,,1,0,1,0
+50,"Come, Thou Glorious Day of Promise",27,2:36,3,,,0,1,0
+51,"Sons of Michael, He Approaches",1,2:44,1,,1,0,1,0
+52,The Day Dawn Is Breaking,267,4:14,8,,,0,1,0
+53,Let Earth's Inhabitants Rejoice,9,2:06,2,,,0,1,0
+54,"Behold, the Mountain of the Lord",9,,2,,,0,1,0
+55,"Lo, the Mighty God Appearing!",11,3:14,2,,,0,1,0
+56,Softly Beams the Sacred Dawning,5,2:43,1,,,0,1,0
+57,We're Not Ashamed to Own Our Lord,10,2:38,2,,,0,1,0
+58,"Come, Ye Children of the Lord",297,2:18,9,,,0,1,0
+59,"Come, O Thou King of Kings",137,3:03,6,,1,0,1,0
+60,Battle Hymn of the Republic,202,2:19,7,,,0,1,0
+61,Raise Your Voices to the Lord,27,1:28,3,,,0,1,0
+62,All Creatures of Our God and King,265,,8,,,0,1,0
+63,Great King of Heaven,20,1:24,3,,,0,1,0
+64,On This Day of Joy and Gladness,129,3:20,6,,,0,1,0
+65,"Come, All Ye Saints Who Dwell on Earth",54,2:48,4,,,0,1,0
+66,"Rejoice, the Lord Is King!",276,2:19,9,,,0,1,0
+67,Glory to God on High,217,1:54,7,,,0,1,0
+68,A Mighty Fortress is Our God,79,1:26,5,,,0,1,0
+69,"All Glory, laud, and Honor",72,2:36,5,,,0,1,0
+70,Sing Praise to Him,63,3:10,4,,,0,1,0
+71,With Songs of Praise,27,2:40,3,,,0,1,0
+72,"Praise to the Lord, the Almighty",148,3:06,6,,,0,1,0
+73,Praise the Lord with Heart and Voice,66,2:08,4,,,0,1,0
+74,Praise Ye the Lord,8,2:33,2,,,0,1,0
+75,In Hymns of Praise,62,3:22,4,,,0,1,0
+76,"God of Our Fathers, We Come unto Thee",123,3:51,6,,,0,1,0
+77,Great Is the Lord,10,2:09,2,,,0,1,0
+78,"God of Our Fathers, Whose Almighty Hand",161,2:19,7,,,0,1,0
+79,With All the Power of Heart and Tongue,9,1:58,2,,,0,1,0
+80,"God of Our Fathers, Known of Old",22,2:37,3,,,0,1,0
+81,"Press Forward, Saints",348,2:27,9,,,0,1,0
+82,For All the Saints,56,,4,,,0,1,0
+83,"Guide Us, O Thou Great Jehovah",197,2:23,7,,,0,1,0
+84,Faith of Our Fathers,163,2:43,7,-1,,0,1,0
+85,How Firm a Foundation,526,2:42,10,,,0,1,0
+86,How Great Thou Art,259,,8,,,0,1,0
+87,God Is Love,144,2:59,6,,,0,1,0
+88,"Great God, Attend While Zion Sings",5,2:28,1,,,0,1,0
+89,The Lord Is My Light,424,3:39,10,,,0,1,0
+90,From All That Dwell Below the Skies,11,2:40,2,,,0,1,0
+91,"Father, Thy Children to Thee Now Raise",100,1:51,5,,,0,1,0
+92,For the Beauty of the Earth,356,2:13,9,,,0,1,0
+93,Prayer of Thanksgiving,221,2:01,7,,,0,0,1
+94,"Come, Ye Thankful People",250,1:51,8,,,0,0,1
+95,Now Thank We All Our God,182,2:18,6,,,0,1,0
+96,"Dearest Children, God Is Near You",251,2:50,8,,,0,1,0
+97,"Lead, Kindly Light",193,3:12,8,1,,0,1,0
+98,I Need Thee Every Hour,348,4:07,9,,,0,1,0
+99,"Nearer, Dear Savior, to Thee",54,3:55,4,,,0,1,0
+100,"Nearer, My God, To Thee",238,3:12,8,,,0,1,0
+101,Guide Me to Thee,55,4:28,4,,,0,1,0
+102,"Jesus, Lover of My Soul",76,2:06,5,,,0,1,0
+103,"Precious Savior, Dear Redeemer",138,2:26,6,,,0,1,0
+104,"Jesus, Savior, Pilot Me",99,2:10,5,,,0,1,0
+105,"Master, the Tempest Is Raging",151,4:13,6,2,,0,1,0
+106,God Speed the Right,185,1:47,7,,,0,1,0
+107,"Lord, Accept Our True Devotion",140,3:00,6,,,0,1,0
+108,The Lord Is My Shepherd,146,3:12,6,,,0,1,0
+109,The Lord My Pasture Will Prepare,59,2:23,4,,,0,1,0
+110,Cast Thy Burden upon the Lord,34,1:24,3,,,0,1,0
+111,Rock of Ages,94,1:58,5,,,0,1,0
+112,"Savior, Redeemer of My Soul",82,2:56,5,,,0,1,0
+113,Our Savior's Love,345,2:55,9,,,0,1,0
+114,Come Unto Him,55,3:25,4,,,0,1,0
+115,"Come, Ye Disconsolate",50,2:34,4,,,0,1,0
+116,"Come, Follow Me",411,2:48,10,,,0,1,0
+117,Come unto Jesus,268,3:37,8,,,0,1,0
+118,Ye Simple Souls Who Stray,5,4:55,1,,1,0,1,0
+119,"Come, We That Love the Lord",75,2:04,5,,,0,1,0
+120,Lean on My Ample Arm,6,2:42,1,,,0,1,0
+121,"I'm a Pilgrim, I'm a Stranger",5,2:44,1,,,0,1,0
+122,Though Deepening Trials,58,3:15,4,,,0,1,0
+123,"Oh, May My Soul Commune with Thee",130,2:38,6,,,0,1,0
+124,"Be Still, My Soul",200,,7,2,,0,1,0
+125,How Gentle God's Commands,272,2:27,8,,,0,1,0
+126,"How Long, O Lord Most Holy and True",7,2:59,2,,,0,1,0
+127,Does the Journey Seem Long?,39,2:40,3,,,0,1,0
+128,When Faith Endures,110,1:16,6,,,0,1,0
+129,Where Can I Turn for Peace?,269,2:59,8,,,0,1,0
+130,Be Thou Humble,222,1:56,7,,,0,1,0
+131,More Holiness Give Me,338,2:49,9,,,0,1,0
+132,God Is in His Holy Temple,14,1:50,2,,,0,1,0
+133,Father in Heaven,137,2:41,6,,,0,1,0
+134,I Believe in Christ,453,5:00,10,-2,,0,1,0
+135,My Redeemer Lives,201,1:39,7,,,0,1,0
+136,I Know That My Redeemer Lives,528,4:19,10,,,0,1,0
+137,Testimony,255,2:13,8,,,0,1,0
+138,"Bless Our Fast, We Pray",256,3:02,8,,,0,1,0
+139,In Fasting We Approach Thee,239,2:31,8,,,0,1,0
+140,Did you Think to Pray?,305,3:04,9,,,0,1,0
+141,"Jesus, the Very Thought of Thee",229,2:30,8,,,1,1,0
+142,Sweet Hour of Prayer,258,2:58,8,,,0,1,0
+143,Let the Holy Spirit Guide,268,,8,,,0,1,0
+144,Secret Prayer,209,3:28,7,,,0,1,0
+145,Prayer Is the Soul's Sincere Desire,61,2:20,4,,,0,1,0
+146,Gently Raise the Sacred Strain,272,3:55,8,,,1,1,0
+147,Sweet Is the Work,229,2:39,8,,,0,1,0
+148,Sabbath Day,74,2:29,5,,,0,1,0
+149,As the Dew from Heaven Distilling,36,3:24,3,,,0,1,0
+150,O Thou Kind and Gracious Father,65,2:24,4,,,0,1,0
+151,"We Meet, Dear Lord",37,2:00,3,,,0,1,0
+152,God Be with You Till We Meet Again,248,3:15,8,,,0,1,0
+153,"Lord, We Ask Thee Ere We Part",180,2:16,7,,,0,1,0
+154,"Father, This Hour Has Been One of Joy",12,0:55,2,,,0,1,0
+155,We Have Partaken of Thy Love,43,2:15,4,,,0,1,0
+156,Sing We Now at Parting,244,2:47,8,,,0,1,0
+157,"Thy Spirit, Lord, Has Stirred Our Souls",167,1:39,7,-1,,0,1,0
+158,"Before Thee, Lord, I Bow My Head",158,4:04,7,-1,,0,1,0
+159,Now the Day Is Over,19,1:36,3,,,0,1,0
+160,Softly Now the Light of Day,8,0:51,2,,,0,1,0
+161,The Lord Be with Us,33,2:05,3,,,0,1,0
+162,"Lord, We Come before Thee Now",22,2:38,3,,,0,1,0
+163,"Lord, Dismiss Us with Thy Blessing",258,1:40,8,-3,1,0,1,0
+164,"Great God, to Thee My Evening Song",6,2:25,1,,,0,1,0
+165,"Abide with Me, 'Tis Eventide",132,3:32,6,3,,0,1,0
+166,Abide with Me!,184,2:57,7,1,,0,1,0
+167,"Come, Let Us Sing an Evening Hymn",7,2:20,2,,,0,1,0
+168,As the Shadows Fall,11,1:29,2,,,0,1,0
+169,As Now We Take the Sacrament,764,3:01,10,,,1,0,0
+170,"God, Our Father, Hear Us Pray",690,2:21,10,,,1,0,0
+171,With Humble Heart,610,2:44,10,,,1,0,0
+172,"In Humility, Our Savior",846,2:46,10,,,1,0,0
+173,While of These Emblems We Partake (SAUL),398,2:53,10,,,1,0,0
+174,While of These Emblems We Partake (AEOLIAN),541,3:05,10,,,1,0,0
+175,"O God, the Eternal Father",682,4:18,10,,,1,0,0
+176,Tis Sweet to Sing the Matchless Love (MEREDITH),411,2:55,10,,,1,0,0
+177,Tis Sweet to Sing the Matchless Love (HANCOCK),502,3:08,10,,,1,0,0
+178,O Lord of Hosts,326,2:12,9,,,1,0,0
+179,"Again, Our Dear Redeeming Lord",275,2:36,9,,,1,0,0
+180,"Father in Heaven, We Do Believe",661,2:14,10,,,1,0,0
+181,"Jesus of Nazareth, Savior and King",689,2:52,10,,,1,0,0
+182,We'll Sing All Hail to Jesus' Name,686,2:48,10,,,1,0,0
+183,In Rememberance of Thy Suffering,415,3:25,10,,,1,0,0
+184,Upon the Cross of Calvary,606,1:50,10,,,1,0,0
+185,Reverently and Meekly Now,254,5:06,8,,,1,0,0
+186,Again We Meet around the Board,254,2:57,8,,,1,0,0
+187,"God Loved Us, So He Sent His Son",692,1:46,10,,,1,0,0
+188,"Thy Will, O Lord, Be Done",393,2:18,10,,,1,0,0
+189,"O Thou, Before the World Began",180,3:06,7,-1,,1,0,0
+190,In Memory of the Crucified,549,2:32,10,,,1,0,0
+191,Behold the Great Redeemer Die,601,3:19,10,,,1,0,0
+192,He Died! The Great Redeemer Died,535,3:05,10,,,1,0,0
+193,I Stand All Amazed,941,3:41,10,,,1,0,0
+194,There Is a Green Hill Far Away,796,2:19,10,,,1,0,0
+195,How Great the Wisdom and the Love,742,3:57,10,,,1,0,0
+196,"Jesus, Once of Humble Birth",818,3:33,10,,,1,0,0
+197,"O Savior, Thou Who Wearest a Crown",140,4:16,6,,,1,0,1
+198,That Easter Morn,70,2:22,5,,,0,0,1
+199,He Is Risen,210,1:52,7,,,0,0,1
+200,Christ the Lord Is Risen Today,198,2:24,7,,,0,0,1
+201,Joy to the World,362,2:18,9,,,0,0,1
+202,"Oh, Come, All Ye Faithful",332,2:55,9,,,0,0,1
+203,Angels We Have Heard on High,278,2:57,9,,,0,0,1
+204,Silent Night,269,3:11,8,,,0,0,1
+205,Once in Royal David's City,157,2:19,6,,,0,0,1
+206,Away in a Manger,231,2:34,8,,,0,0,1
+207,It Came upon the Midnight Clear,211,2:33,7,,,0,0,1
+208,O Little Town Of Bethlehem,222,3:03,7,,,0,0,1
+209,Hark! The Herald Angels Sing,301,2:11,9,,,0,0,1
+210,With Wondering Awe,206,2:40,7,,,0,0,1
+211,While Shepherds Watched Their Flocks,108,2:12,5,,,0,0,1
+212,"Far, Far, Away on Judea's Plains",257,2:25,8,,,0,0,1
+213,The First Noel,279,2:03,9,,,0,0,1
+214,I Heard the Bells on Christmas Day,225,2:33,8,,,0,0,1
+215,"Ring Out, Wild Bells",154,2:21,6,,,0,0,1
+216,We Are Sowing,94,2:46,5,,,0,1,0
+217,"Come, Let Us Anew",213,2:43,7,,,0,0,1
+218,We Give Thee But Thine Own,79,2:20,5,,,0,1,0
+219,Because I Have Been Given Much,557,,10,,,0,1,0
+220,"Lord, I Would Follow Thee",485,3:01,10,,,0,1,0
+221,Dear to the Heart of the Shepherd,121,5:42,6,,,0,1,0
+222,"Hear Thou Our Hymn, O Lord",23,1:09,3,,,0,1,0
+223,Have I Done Any Good?,247,2:46,8,,,0,1,0
+224,I Have Work Enough to Do,66,1:55,4,,,0,1,0
+225,We Are Marching On to Glory,58,2:31,4,,,0,1,0
+226,Improve the Shining Moments,157,2:25,6,,,0,1,0
+227,There Is Sunshine in My Soul Today,295,3:12,9,,,0,1,0
+228,You Can Make the Pathway Bright,196,3:16,7,,,0,1,0
+229,"Today, While the Sun Shines",83,2:32,5,,,0,1,0
+230,Scatter Sunshine,128,2:48,6,1,,0,1,0
+231,"Father, Cheer our Souls Tonight",17,2:20,2,,,0,1,0
+232,Let Us Oft Speak Kind Words,120,2:53,6,,,0,1,0
+233,"Nay, Speak No Ill",24,2:47,3,,,0,1,0
+234,"Jesus, Mighty King in Zion",13,1:39,2,,,0,1,0
+235,Should You Feel Inclined to Censure,56,1:56,4,,,0,1,0
+236,"Lord, Accept into Thy Kingdom",18,2:38,2,,,0,1,0
+237,Do What Is Right,271,3:03,8,,,0,1,0
+238,"Behold Thy Sons and Daughters, Lord",6,2:02,1,,,0,1,0
+239,Choose the Right,384,2:41,9,,,0,1,0
+240,"Know This, That Every Soul Is Free",75,1:58,5,,,0,1,0
+241,Count Your Blessings,367,3:12,9,,,0,1,0
+242,"Praise God, from Whom All Blessings Flow",50,1:14,4,,,0,1,0
+243,Let Us All Press On,327,2:22,9,,,0,1,0
+244,"Come Along, Come Along",47,2:31,4,,,0,1,0
+245,This House We Dedicate to Thee,4,1:52,1,,,0,1,0
+246,"Onward, Christian Soldiers",155,4:19,6,,,0,1,0
+247,"We Love Thy House, O God",142,1:43,6,,,0,1,0
+248,"Up, Awake, Ye Defenders of Zion",23,3:44,3,,,0,1,0
+249,Called to Serve,302,2:08,9,,,0,1,0
+250,We Are All Enlisted,158,3:12,7,,,0,1,0
+251,Behold! A Royal Army,113,3:20,6,,,0,1,0
+252,Put Your Shoulder to the Wheel,295,3:07,9,,,0,1,0
+253,Like Ten Thousand Legions Marching,7,1:58,2,,,0,1,0
+254,True to the Faith,143,3:22,6,,,0,1,0
+255,Carry On,166,3:03,7,,,0,1,0
+256,As Zion's Youth in Latter Days,66,2:32,4,,,0,1,0
+257,Rejoice! A Glorious Sound Is Heard,7,2:17,2,,,0,1,0
+258,O Thou Rock of Our Salvation,127,3:16,6,,,0,1,0
+259,Hope of Israel,208,3:01,7,,1,0,1,0
+260,Who's on the Lord's Side?,108,3:07,5,,,0,1,0
+261,Thy Servants Are Prepared,7,1:29,2,,,0,1,0
+262,"Go, Ye Messengers of Glory",7,2:34,2,,,0,1,0
+263,Go Forth with Faith,251,2:29,8,,,0,1,0
+264,"Hark, All Ye Nations!",298,2:24,9,,,0,1,0
+265,"Arise, O God, and Shine",33,2:44,3,,,0,1,0
+266,The Time Is Far Spent,121,2:41,6,,,0,1,0
+267,How Wondrous and Great,90,1:36,5,,,0,1,0
+268,"Come, All Whose Souls Are Lighted",12,2:11,2,,,0,1,0
+269,"Jehovah, Lord of Heaven and Earth",40,3:02,4,,,0,1,0
+270,I'll Go Where You Want Me to Go,275,4:42,9,,,0,1,0
+271,"Oh, Holy Words of Truth and Love",97,3:52,5,,,0,1,0
+272,"Oh Say, What Is Truth?",59,2:27,4,,,0,1,0
+273,Truth Reflects upon Our Senses,80,3:17,5,,,0,1,0
+274,The Iron Rod,314,2:36,9,,,0,1,0
+275,Men Are That They Might Have Joy,17,2:02,2,,,0,1,0
+276,Come Away to the Sunday School,23,3:35,3,,,0,1,0
+277,As I Search the Holy Scriptures,229,2:16,8,,,0,1,0
+278,Thanks for the Sabbath School,51,3:22,4,,,0,1,0
+279,Thy Holy Word,57,2:04,4,,,0,1,0
+280,"Welcome, Welcome, Sabbath Morning",285,3:48,9,,,0,1,0
+281,Help Me Teach with Inspiration,62,2:36,4,,,0,1,0
+282,We Meet Again in Sabbath School,7,2:36,2,,,0,1,0
+283,The Glorious Gospel Light Has Shone,20,3:22,3,,,0,1,0
+284,If You Could Hie to Kolob,111,2:42,6,,1,0,1,0
+285,God Moves in a Mysterious Way,27,2:08,3,,,0,1,0
+286,"Oh, What Songs of the Heart",51,3:18,4,,,0,1,0
+287,"Rise, Ye Saints, and Temples Enter",39,1:42,3,,,0,1,0
+288,"How Beautiful Thy Temples, Lord",71,2:53,5,,,0,1,0
+289,Holy Temples on Mount Zion,38,2:45,3,,,0,1,0
+290,"Rejoice, Ye Saints of Latter Days",19,2:17,3,,,0,1,0
+291,Turn Your Hearts,72,2:17,5,,,0,1,0
+292,O My Father,254,4:25,8,,,0,1,0
+293,Each Life That Touches Ours for Good,117,2:38,6,,,0,1,0
+294,Love at Home,349,3:39,9,,,0,1,0
+295,O Love That Glorifies the Son,64,3:00,4,,,0,1,0
+296,"Our Father, by Whose Name",92,,5,,,0,1,0
+297,From Homes of Saints Glad Songs Arise,80,1:58,5,,,0,1,0
+298,Home Can Be a Heaven on Earth,281,2:38,9,,,0,1,0
+299,Children of Our Heavenly Father,43,1:31,4,,,0,1,0
+300,Families Can Be Together Forever,301,2:14,9,,1,0,1,0
+301,I Am a Child of God,338,2:58,9,,1,0,1,0
+302,I Know My Father Lives,220,1:46,7,,,0,1,0
+303,Keep the Commandments,167,1:07,7,,,0,1,0
+304,Teach Me to Walk in the Light,407,2:18,10,,,0,1,0
+305,The Light Divine,100,3:38,5,,,0,1,0
+306,God's Daily Care,24,1:19,3,,,0,1,0
+307,In Our Lovely Deseret,79,3:05,5,,1,0,1,0
+308,Love One Another,259,1:22,8,,,0,1,0
+309,As Sisters in Zion (Women),16,2:08,2,,,0,0,0
+310,A Key Was Turned in Latter Days (Women),2,1:52,1,,,0,0,0
+311,We Meet Again as Sisters (Women),1,2:48,1,,,0,0,0
+312,We Ever Pray for Thee (Women),24,3:32,3,,,0,0,0
+313,God Is Love (Women),1,2:57,1,,,0,0,0
+314,How Gentle God's Commands (Women),2,2:32,1,,,0,0,0
+315,"Jesus, the Very Thought of Thee (Women)",6,2:42,1,,,0,0,0
+316,The Lord Is My Shepherd (Women),0,3:23,1,,,0,0,0
+317,Sweet Is the Work (Women),2,2:39,1,,,0,0,0
+318,Love at Home (Women),2,3:56,1,,,0,0,0
+319,Ye Elders of Israel (Men),5,2:48,1,,,0,0,0
+320,The Priesthood of Our Lord (Men),0,1:17,1,,1,0,0,0
+321,Ye Who Are Called to Labor (Men),1,1:56,1,,,0,0,0
+322,"Come, All Ye Sons of God (Men)",5,2:21,1,,,0,0,0
+323,"Rise Up, O Men of God (Men's Choir)",2,1:37,1,,,0,0,0
+324,"Rise Up, O Men of God (Men)",245,1:28,8,,,0,0,0
+325,See the Mighty Priesthood Gathered (Men's Choir),0,2:50,1,,,0,0,0
+326,"Come, Come, Ye Saints (Men's Choir)",136,3:37,6,,,0,0,0
+327,"Go, Ye Messengers of Heaven (Men's Choir)",184,2:03,7,,,0,0,0
+328,An Angel from on High (Men),0,2:22,1,,,0,0,0
+329,Thy Servants Are Prepared (Men's Choir),0,1:31,1,,,0,0,0
+330,"See, the Mighty Angel Flying (Men's Choir)",0,2:15,1,,,0,0,0
+331,"Oh Say, What Is Truth? (Men's Choir)",0,2:17,1,,,0,0,0
+332,"Come, O Thou King of Kings (Men's Choir)",0,3:12,1,,1,0,0,0
+333,High on the Mountain Top (Men's Choir),0,2:31,1,,,0,0,0
+334,I Need Thee Every Hour (Men's Choir),0,3:47,1,,,0,0,0
+335,Brightly Beams Our Father's Mercy (Men's Choir),6,2:47,1,,,0,0,0
+336,School Thy Feelings (Men's Choir),0,3:28,1,,1,0,0,0
+337,O Home Beloved (Men's Choir),0,3:01,1,,1,0,0,0
+338,America the Beautiful,0,3:34,1,,,0,0,1
+339,"My Country, 'Tis of Thee",0,2:29,1,,,0,0,1
+340,The Star-Spangled Banner,1,3:59,1,,,0,0,1
+341,God Save the King,0,1:32,1,,,0,0,0
+1001,"Come, Thou Fount of Every Blessing",,2:32,10,3,,0,1,0
+1002,When the Savior Comes Again,,2:26,1,,,0,0,0
+1003,It Is Well With My Soul,,3:21,9,3,,0,1,0
+1004,I Will Walk with Jesus,,3:03,1,,,0,0,0
+1005,His Eye Is on the Sparrow,,3:47,7,,,0,1,0
+1006,Think a Sacred Song,,1:17,1,,,0,0,0
+1007,As Bread Is Broken,,2:06,8,3,,1,0,0
+1008,"Bread of Life, Living Water",,3:10,8,3,,1,0,0
+1009,Gethsemane,,2:46,7,,,0,0,0
+1010,Amazing Grace,,2:08,10,,,0,1,0
+1011,Holding Hands Around the World,,2:21,7,,,0,0,0
+1012,"Anytime, Anywhere",,1:06,1,,,0,0,0
+1013,God's Gracious Love,,3:06,7,2,,0,1,0
+1014,My Shepherd Will Supply My Need,,3:20,9,3,,0,1,0
+1015,"Oh, the Deep, Deep Love of Jesus",,2:23,6,,,0,1,0
+1016,Behold the Wounds in Jesus' Hands,,3:32,7,3,,1,0,0
+1017,This Is the Christ,,2:30,9,,,0,0,0
+1018,"Come, Lord Jesus",,2:14,9,,,0,0,0
+1019,To Love Like Thee,,,6,,,0,1,0
+1020,Softly and Tenderly Jesus Is Calling,,,6,,,0,1,0
+1021,I Know That My Savior Loves Me,,,6,,,0,1,0
+1022,Faith in Every Footstep,,,6,,,0,1,0
+1023,Standing on the Promise,,,6,,,0,1,0
+1024,I Have Faith in the Lord Jesus Christ,,,6,,,0,1,0
+1025,Take My Heart and Let It Be Consecrated,,,6,,,0,1,0
+1026,Holy Places,,,6,,,0,1,0
+1027,Welcome Home,,,6,,,0,1,0
+1028,This Little Light of Mine,,,6,,,0,1,0
+1029,I Can't Count Them All,,,6,,,0,1,0
+1030,Close as a Quiet Prayer,,,6,,,0,1,0
+1031,"Come, Hear the Word the Lord Has Spoken",,,6,,,0,1,0
+1032,Look unto Christ,,,6,,,0,1,0
+1033,"Oh, How Great Is Our Joy",,,6,,,0,1,0
+1034,I'm a Pioneer Too,,,6,,,0,1,0
+1035,As I Keep the Sabbath Day,,,6,,,0,1,0
+1036,Read the Book of Mormon and Pray,,,6,,,0,1,0
+1037,I'm Gonna Live So God Can Use Me,,,6,,,0,1,0
+1038,The Lord's My Shepherd,,,6,,,0,1,0
+1039,Because,,,6,,,0,1,0
+1040,His Voice as the Sound,,,6,,,0,1,0
+1041,"O Lord, Who Gave Thy Life for Me",,,6,,,0,1,0
+1042,"Thou Gracious God, Whose Mercy Lends",,,6,,,0,1,0
+1043,Help Us Remember,,,6,,,0,1,0
+1044,How Did the Savior Minister?,,,6,,,0,1,0
+1045,Jesus Is the Way,,,6,,,0,1,0
+1046,Can You Count the Stars in Heaven?,,,6,,,0,1,0
+1047,He Cares for Me,,,6,,,0,1,0
+1048,Our Prayer to Thee,,,6,,,0,1,0
+1049,Joseph Prayed in Faith,,,6,,,0,1,0
+1050,Stand by Me,,,6,,,0,1,0
+1051,"This Day Is a Good Day, Lord",,,6,,,0,1,0
+1201,Hail the Day that Sees Him Rise,,2:55,9,3,,0,0,1
+1202,"He is Born, the Divine Christ Child",,2:06,9,3,,0,0,1
+1203,What Child is This,,2:32,10,3,,0,0,1
+1204,Star Bright,,3:14,1,,,0,0,1
+1205,Let Easter Anthems Ring,,,6,,,0,0,1
+1206,Were You There?,,,6,,,0,0,1
+1207,"Still, Still, Still",,,6,,,0,0,1
+1208,Go Tell It on the Mountain,,,6,,,0,0,1
+1209,Little Baby in a Manger,,,6,,,0,0,1
